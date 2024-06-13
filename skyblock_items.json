@@ -1,0 +1,4767 @@
+{
+    "COCOA_BEANS": {
+        "item_name": "Cocoa Beans",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:INK_SACK:3"
+    },
+    "LAPIS_LAZULI": {
+        "item_name": "Lapis Lazuli",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:INK_SACK:4"
+    },
+    "CORRUPTED_BAIT": {
+        "item_name": "Corrupted Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CORRUPTED_BAIT"
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2": {
+        "item_name": "No Pain No Gain II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2"
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1": {
+        "item_name": "No Pain No Gain I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1"
+    },
+    "DUNGEON_TRAP": {
+        "item_name": "Trap",
+        "material": "minecraft:heavy_weighted_pressure_plate",
+        "skyblock_id": "skyblock:DUNGEON_TRAP"
+    },
+    "DARK_ORB": {
+        "item_name": "Dark Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DARK_ORB"
+    },
+    "ARCHITECT_FIRST_DRAFT": {
+        "item_name": "Architect's First Draft",
+        "material": "minecraft:paper",
+        "skyblock_id": "skyblock:ARCHITECT_FIRST_DRAFT"
+    },
+    "ENCHANTMENT_PROTECTION_7": {
+        "item_name": "Protection VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_7"
+    },
+    "ENCHANTMENT_PROTECTION_6": {
+        "item_name": "Protection VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_6"
+    },
+    "ESSENCE_DRAGON": {
+        "item_name": "Dragon Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_DRAGON"
+    },
+    "RITUAL_RESIDUE": {
+        "item_name": "Ritual Residue",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RITUAL_RESIDUE"
+    },
+    "ENCHANTMENT_PROTECTION_1": {
+        "item_name": "Protection I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_1"
+    },
+    "GIANT_FRAGMENT_LASER": {
+        "item_name": "L.A.S.R.'s Eye",
+        "material": "minecraft:ender_eye",
+        "skyblock_id": "skyblock:GIANT_FRAGMENT_LASER"
+    },
+    "ENCHANTMENT_PROTECTION_5": {
+        "item_name": "Protection V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_5"
+    },
+    "ENCHANTED_MELON": {
+        "item_name": "Enchanted Melon",
+        "material": "minecraft:melon",
+        "skyblock_id": "skyblock:ENCHANTED_MELON"
+    },
+    "ENCHANTMENT_PROTECTION_4": {
+        "item_name": "Protection IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_4"
+    },
+    "ENCHANTMENT_PROTECTION_3": {
+        "item_name": "Protection III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_3"
+    },
+    "ENCHANTMENT_PROTECTION_2": {
+        "item_name": "Protection II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROTECTION_2"
+    },
+    "ENCHANTMENT_TURBO_COCO_1": {
+        "item_name": "Turbo-Cocoa I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_COCO_1"
+    },
+    "ENCHANTMENT_TURBO_COCO_5": {
+        "item_name": "Turbo-Cocoa V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_COCO_5"
+    },
+    "ENCHANTMENT_TURBO_COCO_4": {
+        "item_name": "Turbo-Cocoa IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "ENCHANTMENT_TURBO_COCO_4"
+    },
+    "ENCHANTMENT_TURBO_COCO_3": {
+        "item_name": "Turbo-Cocoa III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "ENCHANTMENT_TURBO_COCO_3"
+    },
+    "ENCHANTMENT_TURBO_COCO_2": {
+        "item_name": "Turbo-Cocoa II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "ENCHANTMENT_TURBO_COCO_2"
+    },
+    "ENCHANTED_BLAZE_ROD": {
+        "item_name": "Enchanted Blaze Rod",
+        "material": "minecraft:blaze_rod",
+        "skyblock_id": "skyblock:ENCHANTED_BLAZE_ROD"
+    },
+    "ENCHANTED_BROWN_MUSHROOM": {
+        "item_name": "Enchanted Brown Mushroom",
+        "material": "minecraft:brown_mushroom",
+        "skyblock_id": "skyblock:ENCHANTED_BROWN_MUSHROOM"
+    },
+    "GOBLIN_EGG_YELLOW": {
+        "item_name": "Yellow Goblin Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:GOBLIN_EGG_YELLOW"
+    },
+    "ENCHANTED_GLISTERING_MELON": {
+        "item_name": "Enchanted Glistering Melon",
+        "material": "minecraft:speckled_melon",
+        "skyblock_id": "skyblock:ENCHANTED_GLISTERING_MELON"
+    },
+    "ENCHANTMENT_CORRUPTION_5": {
+        "item_name": "Corruption V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CORRUPTION_5"
+    },
+    "ENCHANTMENT_CORRUPTION_4": {
+        "item_name": "Corruption IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CORRUPTION_4"
+    },
+    "PROTECTOR_FRAGMENT": {
+        "item_name": "Protector Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PROTECTOR_FRAGMENT"
+    },
+    "ENCHANTMENT_CORRUPTION_3": {
+        "item_name": "Corruption III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CORRUPTION_3"
+    },
+    "ENCHANTMENT_CORRUPTION_2": {
+        "item_name": "Corruption II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CORRUPTION_2"
+    },
+    "ENCHANTMENT_CORRUPTION_1": {
+        "item_name": "Corruption I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CORRUPTION_1"
+    },
+    "ENCHANTED_MELON_BLOCK": {
+        "item_name": "Enchanted Melon Block",
+        "material": "minecraft:melon_block",
+        "skyblock_id": "skyblock:ENCHANTED_MELON_BLOCK"
+    },
+    "ROCK_GEMSTONE": {
+        "item_name": "Rock Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROCK_GEMSTONE"
+    },
+    "CONDENSED_FERMENTO": {
+        "item_name": "Condensed Fermento",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CONDENSED_FERMENTO"
+    },
+    "BEADY_EYES": {
+        "item_name": "Beady Eyes",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BEADY_EYES"
+    },
+    "DIAMOND": {
+        "item_name": "Diamond",
+        "material": "minecraft:diamond",
+        "skyblock_id": "skyblock:DIAMOND"
+    },
+    "COBBLESTONE": {
+        "item_name": "Cobblestone",
+        "material": "minecraft:cobblestone",
+        "skyblock_id": "skyblock:COBBLESTONE"
+    },
+    "PERFECT_RUBY_GEM": {
+        "item_name": "Perfect Ruby",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_RUBY_GEM"
+    },
+    "ENCHANTED_PUFFERFISH": {
+        "item_name": "Enchanted Pufferfish",
+        "material": "minecraft:pufferfish",
+        "skyblock_id": "skyblock:ENCHANTED_PUFFERFISH"
+    },
+    "MINION_EXPANDER": {
+        "item_name": "Minion Expander",
+        "material": "minecraft:command_block",
+        "skyblock_id": "skyblock:MINION_EXPANDER"
+    },
+    "END_STONE_SHULKER": {
+        "item_name": "End Stone Shulker",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:END_STONE_SHULKER"
+    },
+    "ENCHANTMENT_CAYENNE_5": {
+        "item_name": "Cayenne 5",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CAYENNE_5"
+    },
+    "ENCHANTED_HARD_STONE": {
+        "item_name": "Enchanted Hard Stone",
+        "material": "minecraft:stone",
+        "skyblock_id": "skyblock:ENCHANTED_HARD_STONE"
+    },
+    "ENCHANTMENT_CAYENNE_4": {
+        "item_name": "Cayenne 4",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CAYENNE_4"
+    },
+    "ENDER_MONOCLE": {
+        "item_name": "Ender Monacle",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENDER_MONOCLE"
+    },
+    "KELVIN_INVERTER": {
+        "item_name": "Kelvin Inverter",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:KELVIN_INVERTER"
+    },
+    "REFINED_DIAMOND": {
+        "item_name": "Refined Diamond",
+        "material": "minecraft:diamond",
+        "skyblock_id": "skyblock:REFINED_DIAMOND"
+    },
+    "HAZMAT_ENDERMAN": {
+        "item_name": "Hazmat Enderman",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HAZMAT_ENDERMAN"
+    },
+    "FLAWED_OPAL_GEM": {
+        "item_name": "\u2742 Flawed Opal Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_OPAL_GEM"
+    },
+    "LUXURIOUS_SPOOL": {
+        "item_name": "Luxurious Spool",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LUXURIOUS_SPOOL"
+    },
+    "ENCHANTMENT_CAYENNE_3": {
+        "item_name": "Cayenne III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CAYENNE_3"
+    },
+    "PORK": {
+        "item_name": "Raw Porkchop",
+        "material": "minecraft:porkchop",
+        "skyblock_id": "skyblock:PORK"
+    },
+    "ENCHANTMENT_CAYENNE_2": {
+        "item_name": "Cayenne II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CAYENNE_2"
+    },
+    "ENCHANTMENT_CAYENNE_1": {
+        "item_name": "Cayenne I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CAYENNE_1"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_1": {
+        "item_name": "Ender Slayer I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_1"
+    },
+    "ULTIMATE_CARROT_CANDY": {
+        "item_name": "Ultimate Carrot Candy",
+        "material": "minecraft:golden_carrot",
+        "skyblock_id": "skyblock:ULTIMATE_CARROT_CANDY"
+    },
+    "PET_CAKE": {
+        "item_name": "Pet Cake",
+        "material": "minecraft:cake",
+        "skyblock_id": "skyblock:PET_CAKE"
+    },
+    "HONEY_JAR": {
+        "item_name": "Honey Jar",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HONEY_JAR"
+    },
+    "SOLAR_PANEL": {
+        "item_name": "Solar Panel",
+        "material": "minecraft:daylight_detector",
+        "skyblock_id": "skyblock:SOLAR_PANEL"
+    },
+    "ENCHANTMENT_FIRE_ASPECT_1": {
+        "item_name": "Fire Aspect I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_ASPECT_1"
+    },
+    "LOG_2:1": {
+        "item_name": "Dark Oak Wood",
+        "material": "minecraft:log2",
+        "skyblock_id": "skyblock:LOG_2:1"
+    },
+    "UNDEAD_CATALYST": {
+        "item_name": "Undead Catalyst",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:UNDEAD_CATALYST"
+    },
+    "ENCHANTMENT_TURBO_CACTUS_5": {
+        "item_name": "Turbo Cactus 5",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_CACTUS_5"
+    },
+    "ENCHANTED_SNOW_BLOCK": {
+        "item_name": "Enchanted Snow Block",
+        "material": "minecraft:snow",
+        "skyblock_id": "skyblock:ENCHANTED_SNOW_BLOCK"
+    },
+    "ENCHANTMENT_TURBO_CACTUS_4": {
+        "item_name": "Turbo Cactus 4",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_CACTUS_4"},
+    "ENCHANTMENT_TURBO_CACTUS_3": {
+        "item_name": "Turbo Cactus 3",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_CACTUS_3"
+    },
+    "ENCHANTMENT_TURBO_CACTUS_2": {
+        "item_name": "Turbo Cactus 2",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_CACTUS_2"
+    },
+    "ENCHANTMENT_TURBO_CACTUS_1": {
+        "item_name": "Turbo Cactus 1",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_CACTUS_1"
+    },
+    "ENCHANTMENT_FIRE_ASPECT_2": {
+        "item_name": "Fire Aspect II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_ASPECT_2"
+    },
+    "ENCHANTMENT_FIRE_ASPECT_3": {
+        "item_name": "Fire Aspect III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_ASPECT_3"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_5": {
+        "item_name": "Ender Slayer V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_5"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_4": {
+        "item_name": "Ender Slayer IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_4"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_3": {
+        "item_name": "Ender Slayer III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_3"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_2": {
+        "item_name": "Ender Slayer II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_2"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_7": {
+        "item_name": "Ender Slayer VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_7"
+    },
+    "ENCHANTMENT_ENDER_SLAYER_6": {
+        "item_name": "Ender Slayer VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ENDER_SLAYER_6"
+    },
+    "ENCHANTMENT_SHARPNESS_1": {
+        "item_name": "Sharpness I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_1"
+    },
+    "DUNGEON_DECOY": {
+        "item_name": "Decoy",
+        "material": "minecraft:spawn_egg",
+        "skyblock_id": "skyblock:DUNGEON_DECOY"
+    },
+    "REFINED_TUNGSTEN": {
+        "item_name": "Refined Tungsten",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_TUNGSTEN"
+    },
+    "ENCHANTMENT_SHARPNESS_5": {
+        "item_name": "Sharpness V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_5"
+    },
+    "ENCHANTMENT_SHARPNESS_4": {
+        "item_name": "Sharpness IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_4"
+    },
+    "ENCHANTMENT_SHARPNESS_3": {
+        "item_name": "Sharpness III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_3"
+    },
+    "ENCHANTMENT_SHARPNESS_2": {
+        "item_name": "Sharpness II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_2"
+    },
+    "ENCHANTMENT_BIG_BRAIN_4": {
+        "item_name": "Big Brain IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BIG_BRAIN_4"
+    },
+    "ENCHANTMENT_BIG_BRAIN_5": {
+        "item_name": "Big Brain V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BIG_BRAIN_5"
+    },
+    "ENCHANTMENT_BIG_BRAIN_3": {
+        "item_name": "Big Brain III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BIG_BRAIN_3"
+    },
+    "ENCHANTED_CARROT_ON_A_STICK": {
+        "item_name": "Enchanted Carrot on a Stick",
+        "material": "minecraft:carrot_on_a_stick",
+        "skyblock_id": "skyblock:ENCHANTED_CARROT_ON_A_STICK"
+    },
+    "ENCHANTMENT_THUNDERLORD_7": {
+        "item_name": "Thunderlord VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_7"
+    },
+    "ENCHANTMENT_THUNDERLORD_6": {
+        "item_name": "Thunderlord VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_6"
+    },
+    "ENCHANTMENT_TURBO_MELON_5": {
+        "item_name": "Turbo Melon V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MELON_5"
+    },
+    "FLY_SWATTER": {
+        "item_name": "Fly Swatter",
+        "material": "minecraft:golden_shovel",
+        "skyblock_id": "skyblock:FLY_SWATTER"
+    },
+    "DERELICT_ASHE": {
+        "item_name": "Derelict Ashe",
+        "material": "minecraft:gunpowder",
+        "skyblock_id": "skyblock:DERELICT_ASHE"
+    },
+    "ENCHANTMENT_THUNDERLORD_3": {
+        "item_name": "Thunderlord III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_3"
+    },
+    "ENCHANTMENT_THUNDERLORD_2": {
+        "item_name": "Thunderlord II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_2"
+    },
+    "ENCHANTMENT_SHARPNESS_7": {
+        "item_name": "Sharpness VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_7"
+    },
+    "ENCHANTMENT_THUNDERLORD_5": {
+        "item_name": "Thunderlord V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_5"
+    },
+    "ENCHANTMENT_SHARPNESS_6": {
+        "item_name": "Sharpness VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SHARPNESS_6"
+    },
+    "ENCHANTMENT_THUNDERLORD_4": {
+        "item_name": "Thunderlord IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_4"
+    },
+    "ENCHANTED_ACACIA_LOG": {
+        "item_name": "Enchanted Acacia Log",
+        "material": "minecraft:log2",
+        "skyblock_id": "skyblock:ENCHANTED_ACACIA_LOG"
+    },
+    "ENCHANTMENT_MANA_STEAL_1": {
+        "item_name": "Mana Steal I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_STEAL_1"
+    },
+    "ENCHANTMENT_MANA_STEAL_2": {
+        "item_name": "Mana Steal II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_STEAL_2"
+    },
+    "ENCHANTMENT_THUNDERLORD_1": {
+        "item_name": "Thunderlord I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERLORD_1"
+    },
+    "ENCHANTMENT_MANA_STEAL_3": {
+        "item_name": "Mana Steal III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_STEAL_3"
+    },
+    "SAND": {
+        "item_name": "Sand",
+        "material": "minecraft:sand",
+        "skyblock_id": "skyblock:SAND"
+    },
+    "PLASMA_BUCKET": {
+        "item_name": "Plasma Bucket",
+        "material": "minecraft:lava_bucket",
+        "skyblock_id": "skyblock:PLASMA_BUCKET"
+    },
+    "ANCIENT_CLAW": {
+        "item_name": "Ancient Claw",
+        "material": "minecraft:flint",
+        "skyblock_id": "skyblock:ANCIENT_CLAW"
+    },
+    "ENCHANTMENT_TURBO_MELON_3": {
+        "item_name": "Turbo Melon III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MELON_3"
+    },
+    "ENCHANTMENT_STRONG_MANA_7": {
+        "item_name": "Strong Mana VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_7"
+    },
+    "ENCHANTED_GHAST_TEAR": {
+        "item_name": "Enchanted Ghast Tear",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:ENCHANTED_GHAST_TEAR"
+    },
+    "ENCHANTMENT_TURBO_MELON_4": {
+        "item_name": "Turbo Melon IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MELON_4"
+    },
+    "ENCHANTMENT_STRONG_MANA_6": {
+        "item_name": "Strong Mana VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_6"
+    },
+    "ENCHANTED_COCOA": {
+        "item_name": "Enchanted Cocoa",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:ENCHANTED_COCOA"
+    },
+    "ENCHANTMENT_TURBO_MELON_1": {
+        "item_name": "Turbo Melon I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MELON_1"
+    },
+    "ENCHANTMENT_STRONG_MANA_5": {
+        "item_name": "Strong Mana V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_5"
+    },
+    "ENCHANTMENT_TURBO_MELON_2": {
+        "item_name": "Turbo Melon II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MELON_2"
+    },
+    "ENCHANTMENT_STRONG_MANA_4": {
+        "item_name": "Strong Mana IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_4"
+    },
+    "ENCHANTMENT_STRONG_MANA_3": {
+        "item_name": "Strong Mana III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_3"
+    },
+    "AMBER_MATERIAL": {
+        "item_name": "Amber Material",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:AMBER_MATERIAL"
+    },
+    "ENCHANTMENT_STRONG_MANA_2": {
+        "item_name": "Strong Mana II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_2"
+    },
+    "ENCHANTMENT_STRONG_MANA_1": {
+        "item_name": "Strong Mana I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_1"
+    },
+    "FINE_TOPAZ_GEM": {
+        "item_name": "Fine Topaz Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_TOPAZ_GEM"
+    },
+    "CARROT_BAIT": {
+        "item_name": "Carrot Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CARROT_BAIT"
+    },
+    "FINE_RUBY_GEM": {
+        "item_name": "Fine Ruby Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_RUBY_GEM"
+    },
+    "HYPERGOLIC_IONIZED_CERAMICS": {
+        "item_name": "Hypergolic Ionized Ceramics",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HYPERGOLIC_IONIZED_CERAMICS"
+    },
+    "HAY_BLOCK": {
+        "item_name": "Hay Bale",
+        "material": "minecraft:hay_block",
+        "skyblock_id": "skyblock:HAY_BLOCK"
+    },
+    "ENCHANTED_ROTTEN_FLESH": {
+        "item_name": "Enchanted Rotten Flesh",
+        "material": "minecraft:rotten_flesh",
+        "skyblock_id": "skyblock:ENCHANTED_ROTTEN_FLESH"
+    },
+    "ENCHANTED_GRILLED_PORK": {
+        "item_name": "Enchanted Grilled Pork",
+        "material": "minecraft:cooked_porkchop",
+        "skyblock_id": "skyblock:ENCHANTED_GRILLED_PORK"
+    },
+    "WISHING_COMPASS": {
+        "item_name": "Wishing Compass",
+        "material": "minecraft:compass",
+        "skyblock_id": "skyblock:WISHING_COMPASS"
+    },
+    "ENCHANTED_ANCIENT_CLAW": {
+        "item_name": "Enchanted Ancient Claw",
+        "material": "minecraft:flint",
+        "skyblock_id": "skyblock:ENCHANTED_ANCIENT_CLAW"
+    },
+    "ENCHANTMENT_HARDENED_MANA_1": {
+        "item_name": "Hardened Mana I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_1"
+    },
+    "OVERGROWN_GRASS": {
+        "item_name": "Overgrown Grass",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:OVERGROWN_GRASS"
+    },
+    "FULL_CHUM_BUCKET": {
+        "item_name": "Full Chum Bucket",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FULL_CHUM_BUCKET"
+    },
+    "PUMPKIN_BOMB": {
+        "item_name": "Pumpkin Bomb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PUMPKIN_BOMB"
+    },
+    "ENCHANTMENT_HARDENED_MANA_3": {
+        "item_name": "Hardened Mana III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_3"
+    },
+    "ENCHANTMENT_HARDENED_MANA_2": {
+        "item_name": "Hardened Mana II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_2"
+    },
+    "SOULFLOW_ENGINE": {
+        "item_name": "Soulflow Engine",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SOULFLOW_ENGINE"
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_1": {
+        "item_name": "Combo I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_COMBO_1"
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_2": {
+        "item_name": "Combo II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_COMBO_2"
+    },
+    "PET_ITEM_TOY_JERRY": {
+        "item_name": "Jerry 3D Glasses",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PET_ITEM_TOY_JERRY"
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_5": {
+        "item_name": "Combo V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_COMBO_5"
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_3": {
+        "item_name": "Combo III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_COMBO_3"
+    },
+    "ENCHANTED_LAVA_BUCKET": {
+        "item_name": "Enchanted Lava Bucket",
+        "material": "minecraft:lava_bucket",
+        "skyblock_id": "skyblock:ENCHANTED_LAVA_BUCKET"
+    },
+    "ENCHANTMENT_ULTIMATE_COMBO_4": {
+        "item_name": "Combo IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_COMBO_4"
+    },
+    "RAW_FISH:3": {
+        "item_name": "Pufferfish",
+        "material": "minecraft:fish",
+        "skyblock_id": "skyblock:RAW_FISH:3"
+    },
+    "BUBBA_BLISTER": {
+        "item_name": "Bubba Blister",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BUBBA_BLISTER"
+    },
+    "ENCHANTED_UMBER": {
+        "item_name": "Enchanted Umber",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_UMBER"
+    },
+    "ENCHANTMENT_STRONG_MANA_9": {
+        "item_name": "Strong Mana IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_9"
+    },
+    "ENCHANTMENT_STRONG_MANA_8": {
+        "item_name": "Strong Mana VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_8"
+    },
+    "ROUGH_AQUAMARINE_GEM": {
+        "item_name": "Rough Aquamarine Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_AQUAMARINE_GEM"
+    },
+    "DIAMOND_ATOM": {
+        "item_name": "Diamond Atom",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DIAMOND_ATOM"
+    },
+    "RAW_FISH:2": {
+        "item_name": "Clownfish",
+        "material": "minecraft:fish",
+        "skyblock_id": "skyblock:RAW_FISH:2"
+    },
+    "PRECURSOR_GEAR": {
+        "item_name": "Precursor Gear",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PRECURSOR_GEAR"
+    },
+    "RAW_FISH:1": {
+        "item_name": "Raw Salmon",
+        "material": "minecraft:fish",
+        "skyblock_id": "skyblock:RAW_FISH:1"
+    },
+    "GOBLIN_EGG_RED": {
+        "item_name": "Red Goblin Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:GOBLIN_EGG_RED"
+    },
+    "ENCHANTMENT_TURBO_WARTS_1": {
+        "item_name": "Turbo-Warts I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WARTS_1"
+    },
+    "ENCHANTMENT_TURBO_WARTS_2": {
+        "item_name": "Turbo-Warts II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WARTS_2"
+    },
+    "ENCHANTMENT_TURBO_WARTS_3": {
+        "item_name": "Turbo-Warts III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WARTS_3"
+    },
+    "ENCHANTMENT_TURBO_WARTS_4": {
+        "item_name": "Turbo-Warts IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WARTS_4"
+    },
+    "ENCHANTMENT_TURBO_WARTS_5": {
+        "item_name": "Turbo-Warts V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WARTS_5"
+    },
+    "WHALE_BAIT": {
+        "item_name": "Whale Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WHALE_BAIT"
+    },
+    "SPONGE": {
+        "item_name": "Sponge",
+        "material": "minecraft:sponge",
+        "skyblock_id": "skyblock:SPONGE"
+    },
+    "ENCHANTED_DARK_OAK_LOG": {
+        "item_name": "Enchanted Dark Oak Log",
+        "material": "minecraft:log2",
+        "skyblock_id": "skyblock:ENCHANTED_DARK_OAK_LOG"
+    },
+    "FLAWLESS_TOPAZ_GEM": {
+        "item_name": "Flawless Topaz Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_TOPAZ_GEM"
+    },
+    "ENCHANTMENT_HARDENED_MANA_5": {
+        "item_name": "Hardened Mana V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_5"
+    },
+    "ENCHANTMENT_HARDENED_MANA_4": {
+        "item_name": "Hardened Mana IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_4"
+    },
+    "CAPSAICIN_EYEDROPS_NO_CHARGES": {
+        "item_name": "Capsaicin Eyedrops",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CAPSAICIN_EYEDROPS_NO_CHARGES"
+    },
+    "ENCHANTMENT_HARDENED_MANA_7": {
+        "item_name": "Hardened Mana VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_7"
+    },
+    "ENCHANTMENT_HARDENED_MANA_6": {
+        "item_name": "Hardened Mana VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_6"
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4": {
+        "item_name": "No Pain No Gain IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4"
+    },
+    "ENCHANTMENT_HARDENED_MANA_9": {
+        "item_name": "Hardened Mana IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_9"
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3": {
+        "item_name": "No Pain No Gain III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3"
+    },
+    "ENCHANTMENT_HARDENED_MANA_8": {
+        "item_name": "Hardened Mana VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_8"
+    },
+    "ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5": {
+        "item_name": "No Pain No Gain V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5"
+    },
+    "ENCHANTED_RAW_CHICKEN": {
+        "item_name": "Enchanted Raw Chicken",
+        "material": "minecraft:chicken",
+        "skyblock_id": "skyblock:ENCHANTED_RAW_CHICKEN"
+    },
+    "ENCHANTED_WATER_LILY": {
+        "item_name": "Enchanted Lily Pad",
+        "material": "minecraft:waterlily",
+        "skyblock_id": "skyblock:ENCHANTED_WATER_LILY"
+    },
+    "RED_SCARF": {
+        "item_name": "Red Scarf",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RED_SCARF"
+    },
+    "LOG:1": {
+        "item_name": "Spruce Wood",
+        "material": "minecraft:log",
+        "skyblock_id": "skyblock:LOG:1"
+    },
+    "TITANIUM_ORE": {
+        "item_name": "Titanium Ore",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TITANIUM_ORE"
+    },
+    "ROBOTRON_REFLECTOR": {
+        "item_name": "Robotron Reflector",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROBOTRON_REFLECTOR"
+    },
+    "BLUE_SHARK_TOOTH": {
+        "item_name": "Blue Shark Tooth",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:BLUE_SHARK_TOOTH"
+    },
+    "LOG:3": {
+        "item_name": "Jungle Wood",
+        "material": "minecraft:log",
+        "skyblock_id": "skyblock:LOG:3"
+    },
+    "CHILI_PEPPER": {
+        "item_name": "Chili Pepper",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CHILI_PEPPER"
+    },
+    "LOG:2": {
+        "item_name": "Birch Wood",
+        "material": "minecraft:log",
+        "skyblock_id": "skyblock:LOG:2"
+    },
+    "SIL_EX": {
+        "item_name": "Silex",
+        "material": "minecraft:flint",
+        "skyblock_id": "skyblock:SIL_EX"
+    },
+    "ENCHANTED_CACTUS": {
+        "item_name": "Enchanted Cactus",
+        "material": "minecraft:cactus",
+        "skyblock_id": "skyblock:ENCHANTED_CACTUS"
+    },
+    "SALT_CUBE": {
+        "item_name": "Salt Cube",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SALT_CUBE"
+    },
+    "ONYX": {
+        "item_name": "Black Diamond",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ONYX"
+    },
+    "ENCHANTED_SULPHUR": {
+        "item_name": "Enchanted Sulphur",
+        "material": "minecraft:glowstone",
+        "skyblock_id": "skyblock:ENCHANTED_SULPHUR"
+    },
+    "ENCHANTED_COOKED_SALMON": {
+        "item_name": "Enchanted Cooked Salmon",
+        "material": "minecraft:cooked_fish",
+        "skyblock_id": "skyblock:ENCHANTED_COOKED_SALMON"
+    },
+    "ENCHANTED_SEEDS": {
+        "item_name": "Enchanted Seeds",
+        "material": "minecraft:wheat_seeds",
+        "skyblock_id": "skyblock:ENCHANTED_SEEDS"
+    },
+    "ENCHANTED_BONE_MEAL": {
+        "item_name": "Enchanted Bone Meal",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:ENCHANTED_BONE_MEAL"
+    },
+    "ENCHANTMENT_EXPERIENCE_5": {
+        "item_name": "Experience V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERIENCE_5"
+    },
+    "ENCHANTED_BONE_BLOCK": {
+        "item_name": "Enchanted Bone Block",
+        "material": "minecraft:bone_block",
+        "skyblock_id": "skyblock:ENCHANTED_BONE_BLOCK"
+    },
+    "SMALL_ENCHANTED_CHEST": {
+        "item_name": "Small Storage",
+        "material": "minecraft:chest",
+        "skyblock_id": "skyblock:SMALL_ENCHANTED_CHEST"
+    },
+    "OMEGA_EGG": {
+        "item_name": "Omega Egg",
+        "material": "minecraft:spawn_egg",
+        "skyblock_id": "skyblock:OMEGA_EGG"
+    },
+    "PURPLE_CANDY": {
+        "item_name": "Purple Candy",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PURPLE_CANDY"
+    },
+    "ENCHANTMENT_EXPERIENCE_2": {
+        "item_name": "Experience II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERIENCE_2"
+    },
+    "POLISHED_PUMPKIN": {
+        "item_name": "Polished Pumpkin",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:POLISHED_PUMPKIN"
+    },
+    "ENCHANTMENT_EXPERIENCE_1": {
+        "item_name": "Experience I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERIENCE_1"
+    },
+    "ENCHANTMENT_EXPERIENCE_4": {
+        "item_name": "Experience IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERIENCE_4"
+    },
+    "ENCHANTMENT_EXPERIENCE_3": {
+        "item_name": "Experience III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERIENCE_3"
+    },
+    "ENCHANTED_GOLD_BLOCK": {
+        "item_name": "Enchanted Gold Block",
+        "material": "minecraft:gold_block",
+        "skyblock_id": "skyblock:ENCHANTED_GOLD_BLOCK"
+    },
+    "FINE_OPAL_GEM": {
+        "item_name": "Fine Opal Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_OPAL_GEM"
+    },
+    "ENCHANTED_FLINT": {
+        "item_name": "Enchanted Flint",
+        "material": "minecraft:flint",
+        "skyblock_id": "skyblock:ENCHANTED_FLINT"
+    },
+    "SCORCHED_POWER_CRYSTAL": {
+        "item_name": "Scorched Power Crystal",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SCORCHED_POWER_CRYSTAL"
+    },
+    "SCARF_FRAGMENT": {
+        "item_name": "Scarf Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SCARF_FRAGMENT"
+    },
+    "REHEATED_GUMMY_POLAR_BEAR": {
+        "item_name": "Reheated Gummy Polar Bear",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REHEATED_GUMMY_POLAR_BEAR"
+    },
+    "FURBALL": {
+        "item_name": "Furball",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FURBALL"
+    },
+    "ESSENCE_SPIDER": {
+        "item_name": "Spider Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_SPIDER"
+    },
+    "ENCHANTED_CLAY_BALL": {
+        "item_name": "Enchanted Clay",
+        "material": "minecraft:clay_ball",
+        "skyblock_id": "skyblock:ENCHANTED_CLAY_BALL"
+    },
+    "GLOWSTONE_DUST": {
+        "item_name": "Glowstone Dust",
+        "material": "minecraft:glowstone_dust",
+        "skyblock_id": "skyblock:GLOWSTONE_DUST"
+    },
+    "FLYCATCHER_UPGRADE": {
+        "item_name": "Flycatcher",
+        "material": "minecraft:web",
+        "skyblock_id": "skyblock:FLYCATCHER_UPGRADE"
+    },
+    "PERFECT_AMETHYST_GEM": {
+        "item_name": "Perfect Amethyst Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_AMETHYST_GEM"
+    },
+    "IMPLOSION_SCROLL": {
+        "item_name": "Implosion",
+        "material": "minecraft:writable_book",
+        "skyblock_id": "skyblock:IMPLOSION_SCROLL"
+    },
+    "FTX_3070": {
+        "item_name": "FTX 3070",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FTX_3070"
+    },
+    "CROPIE": {
+        "item_name": "Cropie",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CROPIE"
+    },
+    "ENDSTONE_GEODE": {
+        "item_name": "Endstone Geode",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENDSTONE_GEODE"
+    },
+    "PET_ITEM_VAMPIRE_FANG": {
+        "item_name": "Vampire Fang",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:PET_ITEM_VAMPIRE_FANG"
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_5": {
+        "item_name": "Paleontologist V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PALEONTOLOGIST_5"
+    },
+    "GREAT_CARROT_CANDY": {
+        "item_name": "Great Carrot Candy",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GREAT_CARROT_CANDY"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_10": {
+        "item_name": "Mana Vampire X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_10"
+    },
+    "OPTICAL_LENS": {
+        "item_name": "Optical Lens",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:OPTICAL_LENS"
+    },
+    "LAVA_WATER_ORB": {
+        "item_name": "Lava Water Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LAVA_WATER_ORB"
+    },
+    "ENCHANTED_BONE": {
+        "item_name": "Enchanted Bone",
+        "material": "minecraft:bone",
+        "skyblock_id": "skyblock:ENCHANTED_BONE"
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_3": {
+        "item_name": "Paleontologist III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PALEONTOLOGIST_3"
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_4": {
+        "item_name": "Paleontologist IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PALEONTOLOGIST_4"
+    },
+    "ENCHANTED_DIAMOND_BLOCK": {
+        "item_name": "Enchanted Diamond Block",
+        "material": "minecraft:diamond_block",
+        "skyblock_id": "skyblock:ENCHANTED_DIAMOND_BLOCK"
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_1": {
+        "item_name": "Paleontologist I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PALEONTOLOGIST_1"
+    },
+    "ENCHANTMENT_PALEONTOLOGIST_2": {
+        "item_name": "Paleontologist II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PALEONTOLOGIST_2"
+    },
+    "ENCHANTMENT_DELICATE_5": {
+        "item_name": "Delicate V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DELICATE_5"
+    },
+    "GOBLIN_EGG_GREEN": {
+        "item_name": "Green Goblin Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:GOBLIN_EGG_GREEN"
+    },
+    "ENCHANTMENT_PROSECUTE_6": {
+        "item_name": "Prosecute VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_6"
+    },
+    "ENCHANTMENT_CASTER_1": {
+        "item_name": "Caster I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_1"
+    },
+    "ENCHANTMENT_PROSECUTE_5": {
+        "item_name": "Prosecute V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_5"
+    },
+    "ENCHANTMENT_CASTER_2": {
+        "item_name": "Caster II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_2"
+    },
+    "GIANT_FRAGMENT_BIGFOOT": {
+        "item_name": "Bigfoot's Lasso",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GIANT_FRAGMENT_BIGFOOT"
+    },
+    "LIGHT_BAIT": {
+        "item_name": "Light Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LIGHT_BAIT"
+    },
+    "HOT_POTATO_BOOK": {
+        "item_name": "Hot Potato Book",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:HOT_POTATO_BOOK"
+    },
+    "MAGIC_MUSHROOM_SOUP": {
+        "item_name": "Magic Mushroom Soup",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGIC_MUSHROOM_SOUP"
+    },
+    "ENCHANTMENT_CASTER_3": {
+        "item_name": "Caster III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_3"
+    },
+    "CLAY_BALL": {
+        "item_name": "Clay",
+        "material": "minecraft:clay_ball",
+        "skyblock_id": "skyblock:CLAY_BALL"
+    },
+    "ENCHANTMENT_CASTER_4": {
+        "item_name": "Caster IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_4"
+    },
+    "ENCHANTMENT_CASTER_5": {
+        "item_name": "Caster V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_5"
+    },
+    "OLD_FRAGMENT": {
+        "item_name": "Old Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:OLD_FRAGMENT"
+    },
+    "ENCHANTMENT_CASTER_6": {
+        "item_name": "Caster VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CASTER_6"
+    },
+    "BEATING_HEART": {
+        "item_name": "Beating Heart",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BEATING_HEART"
+    },
+    "ROUGH_AMBER_GEM": {
+        "item_name": "Rough Amber Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_AMBER_GEM"
+    },
+    "ENCHANTMENT_PROSECUTE_4": {
+        "item_name": "Prosecute IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_4"
+    },
+    "ENCHANTMENT_PROSECUTE_3": {
+        "item_name": "Prosecute III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_3"
+    },
+    "ENCHANTMENT_PROSECUTE_2": {
+        "item_name": "Prosecute II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_2"
+    },
+    "ENCHANTMENT_PROSECUTE_1": {
+        "item_name": "Prosecute I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROSECUTE_1"
+    },
+    "AMALGAMATED_CRIMSONITE": {
+        "item_name": "Amalgamated Crimsonite",
+        "material": "minecraft:spawn_egg",
+        "skyblock_id": "skyblock:AMALGAMATED_CRIMSONITE"
+    },
+    "SUPER_MAGIC_MUSHROOM_SOUP": {
+        "item_name": "Mystical Mushroom Soup",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUPER_MAGIC_MUSHROOM_SOUP"
+    },
+    "FINE_AMBER_GEM": {
+        "item_name": "Fine Amber Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_AMBER_GEM"
+    },
+    "ENCHANTED_QUARTZ": {
+        "item_name": "Enchanted Quartz",
+        "material": "minecraft:quartz",
+        "skyblock_id": "skyblock:ENCHANTED_QUARTZ"
+    },
+    "ENDER_PEARL": {
+        "item_name": "Ender Pearl",
+        "material": "minecraft:ender_pearl",
+        "skyblock_id": "skyblock:ENDER_PEARL"
+    },
+    "ENCHANTED_COAL_BLOCK": {
+        "item_name": "Enchanted Coal Block",
+        "material": "minecraft:coal_block",
+        "skyblock_id": "skyblock:ENCHANTED_COAL_BLOCK"
+    },
+    "LESSER_SOULFLOW_ENGINE": {
+        "item_name": "Lesser Soulflow Engine",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LESSER_SOULFLOW_ENGINE"
+    },
+    "ENCHANTED_GLACITE": {
+        "item_name": "Enchanted Glacite",
+        "material": "minecraft:packed_ice",
+        "skyblock_id": "skyblock:ENCHANTED_GLACITE"
+    },
+    "LARGE_WALNUT": {
+        "item_name": "Large Walnut",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LARGE_WALNUT"
+    },
+    "FLAWED_JADE_GEM": {
+        "item_name": "Flawed Jade Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_JADE_GEM"
+    },
+    "TOIL_LOG": {
+        "item_name": "Toil Log",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TOIL_LOG"
+    },
+    "SLUDGE_JUICE": {
+        "item_name": "Sludge Juice",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SLUDGE_JUICE"
+    },
+    "BONZO_FRAGMENT": {
+        "item_name": "Bonzo's Mask",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BONZO_FRAGMENT"
+    },
+    "SUGAR_CANE": {
+        "item_name": "Sugar Cane",
+        "material": "minecraft:sugar_cane",
+        "skyblock_id": "skyblock:SUGAR_CANE"
+    },
+    "ENCHANTMENT_RESPITE_5": {
+        "item_name": "Respite V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_RESPITE_5"
+    },
+    "ENCHANTMENT_RESPITE_3": {
+        "item_name": "Respite III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_RESPITE_3"
+    },
+    "ENCHANTMENT_RESPITE_4": {
+        "item_name": "Respite IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_RESPITE_4"
+    },
+    "ENCHANTMENT_RESPITE_1": {
+        "item_name": "Respite I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_RESPITE_1"
+    },
+    "ENCHANTMENT_RESPITE_2": {
+        "item_name": "Respite II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_RESPITE_2"
+    },
+    "TESSELLATED_ENDER_PEARL": {
+        "item_name": "Tessellated Ender Pearl",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TESSELLATED_ENDER_PEARL"
+    },
+    "ENCHANTED_RAW_BEEF": {
+        "item_name": "Enchanted Raw Beef",
+        "material": "minecraft:beef",
+        "skyblock_id": "skyblock:ENCHANTED_RAW_BEEF"
+    },
+    "AOTE_STONE": {
+        "item_name": "Warped Stone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:AOTE_STONE"
+    },
+    "RABBIT_HIDE": {
+        "item_name": "Rabbit Hide",
+        "material": "minecraft:rabbit_hide",
+        "skyblock_id": "skyblock:RABBIT_HIDE"
+    },
+    "INFERNO_FUEL_BLOCK": {
+        "item_name": "Inferno Fuel",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:INFERNO_FUEL_BLOCK"
+    },
+    "ENCHANTMENT_OVERLOAD_5": {
+        "item_name": "Overload V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_OVERLOAD_5"
+    },
+    "ENCHANTMENT_OVERLOAD_4": {
+        "item_name": "Overload IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_OVERLOAD_4"
+    },
+    "ENCHANTMENT_OVERLOAD_3": {
+        "item_name": "Overload III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_OVERLOAD_3"
+    },
+    "ENCHANTMENT_OVERLOAD_2": {
+        "item_name": "Overload II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_OVERLOAD_2"
+    },
+    "ENCHANTMENT_OVERLOAD_1": {
+        "item_name": "Overload I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_OVERLOAD_1"
+    },
+    "DARK_BAIT": {
+        "item_name": "Dark Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DARK_BAIT"
+    },
+    "ENCHANTED_PUMPKIN": {
+        "item_name": "Enchanted Pumpkin",
+        "material": "minecraft:pumpkin",
+        "skyblock_id": "skyblock:ENCHANTED_PUMPKIN"
+    },
+    "ENCHANTED_COOKED_FISH": {
+        "item_name": "Enchanted Cooked Fish",
+        "material": "minecraft:cooked_fish",
+        "skyblock_id": "skyblock:ENCHANTED_COOKED_FISH"
+    },
+    "OBSIDIAN": {
+        "item_name": "Obsidian",
+        "material": "minecraft:obsidian",
+        "skyblock_id": "skyblock:OBSIDIAN"
+    },
+    "PET_ITEM_EXP_SHARE_DROP": {
+        "item_name": "Exp Share Core",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:PET_ITEM_EXP_SHARE_DROP"
+    },
+    "STARFALL": {
+        "item_name": "Starfall",
+        "material": "minecraft:nether_star",
+        "skyblock_id": "skyblock:STARFALL"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_6": {
+        "item_name": "Fire Protection VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_6"
+    },
+    "SECOND_MASTER_STAR": {
+        "item_name": "Second Master Star",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SECOND_MASTER_STAR"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_5": {
+        "item_name": "Fire Protection V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_5"
+    },
+    "ROUGH_ONYX_GEM": {
+        "item_name": "Rough Onyx Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_ONYX_GEM"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_7": {
+        "item_name": "Fire Protection VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_7"
+    },
+    "ENCHANTMENT_HARDENED_MANA_10": {
+        "item_name": "Hardened Mana X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARDENED_MANA_10"
+    },
+    "FLAWLESS_ONYX_GEM": {
+        "item_name": "Flawless Onyx Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_ONYX_GEM"
+    },
+    "ENCHANTMENT_ULTIMATE_REND_3": {
+        "item_name": "Rend III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REND_3"
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_2": {
+        "item_name": "Ultimate Jerry II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_JERRY_2"
+    },
+    "ENTROPY_SUPPRESSOR": {
+        "item_name": "Entropy Suppressor",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENTROPY_SUPPRESSOR"
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_1": {
+        "item_name": "Ultimate Jerry I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_JERRY_1"
+    },
+    "ENCHANTMENT_ULTIMATE_REND_2": {
+        "item_name": "Rend II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REND_2"
+    },
+    "ENCHANTMENT_ULTIMATE_REND_1": {
+        "item_name": "Rend I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REND_1"
+    },
+    "GLOWSTONE_DUST_DISTILLATE": {
+        "item_name": "Glowstone Distillate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLOWSTONE_DUST_DISTILLATE"
+    },
+    "ENCHANTED_POPPY": {
+        "item_name": "Enchanted Poppy",
+        "material": "minecraft:red_flower",
+        "skyblock_id": "skyblock:ENCHANTED_POPPY"
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_5": {
+        "item_name": "Ultimate Jerry V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_JERRY_5"
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_4": {
+        "item_name": "Ultimate Jerry IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_JERRY_4"
+    },
+    "ENCHANTMENT_ULTIMATE_REND_5": {
+        "item_name": "Rend V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REND_5"
+    },
+    "ENCHANTMENT_ULTIMATE_JERRY_3": {
+        "item_name": "Ultimate Jerry III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_JERRY_3"
+    },
+    "ENCHANTMENT_ULTIMATE_REND_4": {
+        "item_name": "Rend IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REND_4"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_2": {
+        "item_name": "Fire Protection II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_2"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_1": {
+        "item_name": "Fire Protection I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_1"
+    },
+    "BAZAAR_COOKIE": {
+        "item_name": "N/A",
+        "material": "N/A",
+        "skyblock_id": "skyblock:BAZAAR_COOKIE",
+        "comment": "This item seems to not be obtainable."
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_4": {
+        "item_name": "Fire Protection IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_4"
+    },
+    "ENCHANTMENT_FIRE_PROTECTION_3": {
+        "item_name": "Fire Protection III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRE_PROTECTION_3"
+    },
+    "DISPLACED_LEECH": {
+        "item_name": "Displaced Leech",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DISPLACED_LEECH"
+    },
+    "BROWN_MUSHROOM": {
+        "item_name": "Brown Mushroom",
+        "material": "minecraft:brown_mushroom",
+        "skyblock_id": "skyblock:BROWN_MUSHROOM"
+    },
+    "FLAWLESS_PERIDOT_GEM": {
+        "item_name": "Flawless Peridot Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_PERIDOT_GEM"
+    },
+    "ENCHANTMENT_HARVESTING_5": {
+        "item_name": "Harvesting V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_5"
+    },
+    "ENCHANTMENT_HARVESTING_4": {
+        "item_name": "Harvesting IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_4"
+    },
+    "ENCHANTMENT_HARVESTING_3": {
+        "item_name": "Harvesting III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_3"
+    },
+    "CARROT_ITEM": {
+        "item_name": "Carrot",
+        "material": "minecraft:carrot",
+        "skyblock_id": "skyblock:CARROT_ITEM"
+    },
+    "ENCHANTMENT_HARVESTING_2": {
+        "item_name": "Harvesting II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_2"
+    },
+    "ENCHANTMENT_HARVESTING_1": {
+        "item_name": "Harvesting I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_1"
+    },
+    "UMBER": {
+        "item_name": "Umber",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:UMBER"
+    },
+    "HEALING_TISSUE": {
+        "item_name": "Healing Tissue",
+        "material": "minecraft:rotten_flesh",
+        "skyblock_id": "skyblock:HEALING_TISSUE"
+    },
+    "MOLTEN_CUBE": {
+        "item_name": "Molten Cube",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MOLTEN_CUBE"
+    },
+    "EXP_BOTTLE": {
+        "item_name": "Experience Bottle",
+        "material": "minecraft:experience_bottle",
+        "skyblock_id": "skyblock:EXP_BOTTLE"
+    },
+    "ENCHANTED_RABBIT_HIDE": {
+        "item_name": "Enchanted Rabbit Hide",
+        "material": "minecraft:rabbit_hide",
+        "skyblock_id": "skyblock:ENCHANTED_RABBIT_HIDE"
+    },
+    "ENCHANTMENT_HARVESTING_6": {
+        "item_name": "Harvesting VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_HARVESTING_6"
+    },
+    "WATER_ORB": {
+        "item_name": "Water Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WATER_ORB"
+    },
+    "GLACITE_JEWEL": {
+        "item_name": "Glacite Jewel",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLACITE_JEWEL"
+    },
+    "INFERNO_VERTEX": {
+        "item_name": "Inferno Vertex",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:INFERNO_VERTEX"
+    },
+    "RUSTY_ANCHOR": {
+        "item_name": "Rusty Anchor",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RUSTY_ANCHOR"
+    },
+    "WEAK_WOLF_CATALYST": {
+        "item_name": "Weak Wolf Catalyst",
+        "material": "minecraft:bone",
+        "skyblock_id": "skyblock:WEAK_WOLF_CATALYST"
+    },
+    "FLAWED_AMETHYST_GEM": {
+        "item_name": "Flawed Amethyst Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_AMETHYST_GEM"
+    },
+    "PERFECT_JADE_GEM": {
+        "item_name": "Perfect Jade Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_JADE_GEM"
+    },
+    "FOURTH_MASTER_STAR": {
+        "item_name": "Fourth Master Star",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FOURTH_MASTER_STAR"
+    },
+    "ENCHANTED_BIRCH_LOG": {
+        "item_name": "Enchanted Birch Log",
+        "material": "minecraft:log",
+        "skyblock_id": "skyblock:ENCHANTED_BIRCH_LOG"
+    },
+    "ENCHANTED_GUNPOWDER": {
+        "item_name": "Enchanted Gunpowder",
+        "material": "minecraft:gunpowder",
+        "skyblock_id": "skyblock:ENCHANTED_GUNPOWDER"
+    },
+    "REFINED_AMBER": {
+        "item_name": "Refined Amber",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_AMBER"
+    },
+    "ENCHANTED_SUGAR": {
+        "item_name": "Enchanted Sugar",
+        "material": "minecraft:sugar",
+        "skyblock_id": "skyblock:ENCHANTED_SUGAR"
+    },
+    "CACTUS": {
+        "item_name": "Cactus",
+        "material": "minecraft:cactus",
+        "skyblock_id": "skyblock:CACTUS"
+    },
+    "DUNG": {
+        "item_name": "Dung",
+        "material": "minecraft:wool",
+        "skyblock_id": "skyblock:DUNG"
+    },
+    "ENCHANTED_RAW_SALMON": {
+        "item_name": "Enchanted Raw Salmon",
+        "material": "minecraft:raw_fish",
+        "skyblock_id": "skyblock:ENCHANTED_RAW_SALMON"
+    },
+    "BOBBIN_SCRIPTURES": {
+        "item_name": "Bobbin Scriptures",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BOBBIN_SCRIPTURES"
+    },
+    "ENCHANTED_EMERALD": {
+        "item_name": "Enchanted Emerald",
+        "material": "minecraft:emerald",
+        "skyblock_id": "skyblock:ENCHANTED_EMERALD"
+    },
+    "RED_MUSHROOM": {
+        "item_name": "Red Mushroom",
+        "material": "minecraft:red_mushroom",
+        "skyblock_id": "skyblock:RED_MUSHROOM"
+    },
+    "GRAND_EXP_BOTTLE": {
+        "item_name": "Grand Experience Bottle",
+        "material": "minecraft:experience_bottle",
+        "skyblock_id": "skyblock:GRAND_EXP_BOTTLE"
+    },
+    "MUTTON": {
+        "item_name": "Mutton",
+        "material": "minecraft:mutton",
+        "skyblock_id": "skyblock:MUTTON"
+    },
+    "ENCHANTMENT_DEDICATION_2": {
+        "item_name": "Dedication II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DEDICATION_2"
+    },
+    "ENCHANTMENT_DEDICATION_1": {
+        "item_name": "Dedication I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DEDICATION_1"
+    },
+    "ENCHANTMENT_DEDICATION_4": {
+        "item_name": "Dedication IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DEDICATION_4"
+    },
+    "ENCHANTMENT_DEDICATION_3": {
+        "item_name": "Dedication III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DEDICATION_3"
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_2": {
+        "item_name": "Ultimate Wise II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_WISE_2"
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_1": {
+        "item_name": "Ultimate Wise I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_WISE_1"
+    },
+    "SPIDER_EYE": {
+        "item_name": "Spider Eye",
+        "material": "minecraft:spider_eye",
+        "skyblock_id": "skyblock:SPIDER_EYE"
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_4": {
+        "item_name": "Ultimate Wise IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_WISE_4"
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_3": {
+        "item_name": "Ultimate Wise III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_WISE_3"
+    },
+    "BEJEWELED_HANDLE": {
+        "item_name": "Bejeweled Handle",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BEJEWELED_HANDLE"
+    },
+    "LARGE_ENCHANTED_CHEST": {
+        "item_name": "Large Storage",
+        "material": "minecraft:chest",
+        "skyblock_id": "skyblock:LARGE_ENCHANTED_CHEST"
+    },
+    "ENCHANTED_NETHERRACK": {
+        "item_name": "Enchanted Netherrack",
+        "material": "minecraft:netherrack",
+        "skyblock_id": "skyblock:ENCHANTED_NETHERRACK"
+    },
+    "JADERALD": {
+        "item_name": "Jaderald",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:JADERALD"
+    },
+    "ENCHANTMENT_TRUE_PROTECTION_1": {
+        "item_name": "True Protection I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TRUE_PROTECTION_1"
+    },
+    "CORRUPT_SOIL": {
+        "item_name": "Corrupt Soil",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CORRUPT_SOIL"
+    },
+    "PRISMARINE_CRYSTALS": {
+        "item_name": "Prismarine Crystals",
+        "material": "minecraft:prismarine_crystals",
+        "skyblock_id": "skyblock:PRISMARINE_CRYSTALS"
+    },
+    "RARE_DIAMOND": {
+        "item_name": "Rare Diamond",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RARE_DIAMOND"
+    },
+    "ICE": {
+        "item_name": "Ice",
+        "material": "minecraft:ice",
+        "skyblock_id": "skyblock:ICE"
+    },
+     "TIGER_SHARK_TOOTH": {
+        "item_name": "Tiger Shark Tooth",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:TIGER_SHARK_TOOTH"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_4": {
+        "item_name": "Luck of the Sea IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_4"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_5": {
+        "item_name": "Luck of the Sea V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_5"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_6": {
+        "item_name": "Luck of the Sea VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_6"
+    },
+    "ENCHANTMENT_SMARTY_PANTS_3": {
+        "item_name": "Smarty Pants III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMARTY_PANTS_3"
+    },
+    "ENCHANTMENT_ULTIMATE_WISE_5": {
+        "item_name": "Ultimate Wise V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_WISE_5"
+    },
+    "ENCHANTMENT_SMARTY_PANTS_2": {
+        "item_name": "Smarty Pants II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMARTY_PANTS_2"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_1": {
+        "item_name": "Luck of the Sea I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_1"
+    },
+    "ENCHANTMENT_SMARTY_PANTS_5": {
+        "item_name": "Smarty Pants V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMARTY_PANTS_5"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_2": {
+        "item_name": "Luck of the Sea II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_2"
+    },
+    "ENCHANTMENT_SMARTY_PANTS_4": {
+        "item_name": "Smarty Pants IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMARTY_PANTS_4"
+    },
+    "ENCHANTMENT_LUCK_OF_THE_SEA_3": {
+        "item_name": "Luck of the Sea III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LUCK_OF_THE_SEA_3"
+    },
+    "GOLDEN_TOOTH": {
+        "item_name": "Golden Tooth",
+        "material": "minecraft:gold_nugget",
+        "skyblock_id": "skyblock:GOLDEN_TOOTH"
+    },
+    "THE_ART_OF_PEACE": {
+        "item_name": "The Art of Peace",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:THE_ART_OF_PEACE"
+    },
+    "ENCHANTMENT_SMARTY_PANTS_1": {
+        "item_name": "Smarty Pants I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMARTY_PANTS_1"
+    },
+    "HYPER_CATALYST": {
+        "item_name": "Hyper Catalyst",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HYPER_CATALYST"
+    },
+    "VOLTA": {
+        "item_name": "Volta",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:VOLTA"
+    },
+    "RABBIT_FOOT": {
+        "item_name": "Rabbit's Foot",
+        "material": "minecraft:rabbit_foot",
+        "skyblock_id": "skyblock:RABBIT_FOOT"
+    },
+    "SUPERLITE_MOTOR": {
+        "item_name": "Superlite Motor",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUPERLITE_MOTOR"
+    },
+    "REDSTONE": {
+        "item_name": "Redstone",
+        "material": "minecraft:redstone",
+        "skyblock_id": "skyblock:REDSTONE"
+    },
+    "BRAIDED_GRIFFIN_FEATHER": {
+        "item_name": "Braided Griffin Feather",
+        "material": "minecraft:string",
+        "skyblock_id": "skyblock:BRAIDED_GRIFFIN_FEATHER"
+    },
+    "SUSPICIOUS_SCRAP": {
+        "item_name": "Suspicious Scrap",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUSPICIOUS_SCRAP"
+    },
+    "SPIRIT_WING": {
+        "item_name": "Spirit Wing",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SPIRIT_WING"
+    },
+    "SPOOKY_WATER_ORB": {
+        "item_name": "Spooky Water Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SPOOKY_WATER_ORB"
+    },
+    "THE_ART_OF_WAR" : {
+        "item_name": "The Art of War",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:THE_ART_OF_WAR"
+    },
+    "ENCHANTMENT_LURE_2": {
+        "item_name": "Lure II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_2"
+    },
+    "ENCHANTMENT_LURE_1": {
+        "item_name": "Lure I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_1"
+    },
+    "SLIME_BALL": {
+        "item_name": "Slimeball",
+        "material": "minecraft:slime_ball",
+        "skyblock_id": "skyblock:SLIME_BALL"
+    },
+    "ENCHANTMENT_LURE_6": {
+        "item_name": "Lure VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_6"
+    },
+    "ENCHANTMENT_LURE_5": {
+        "item_name": "Lure V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_5"
+    },
+    "ENCHANTMENT_LURE_4": {
+        "item_name": "Lure IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_4"
+    },
+    "ENCHANTMENT_LURE_3": {
+        "item_name": "Lure III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LURE_3"
+    },
+    "HOLY_FRAGMENT": {
+        "item_name": "Holy Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HOLY_FRAGMENT"
+    },
+    "SNOW_BALL": {
+        "item_name": "Snowball",
+        "material": "minecraft:snowball",
+        "skyblock_id": "skyblock:SNOW_BALL"
+    },
+    "ENCHANTED_EGG": {
+        "item_name": "Enchanted Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:ENCHANTED_EGG"
+    },
+    "ENCHANTED_WOOL": {
+        "item_name": "Enchanted Wool",
+        "material": "minecraft:wool",
+        "skyblock_id": "skyblock:ENCHANTED_WOOL"
+    },
+    "SUPERB_CARROT_CANDY": {
+        "item_name": "Superb Carrot Candy",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUPERB_CARROT_CANDY"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_8": {
+        "item_name": "Ferocious Mana VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_8"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_9": {
+        "item_name": "Ferocious Mana IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_9"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_4": {
+        "item_name": "Ferocious Mana IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_4"
+    },
+    "FINE_JADE_GEM": {
+        "item_name": "Fine Jade Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_JADE_GEM"
+    },
+    "FLAWED_RUBY_GEM" : {
+        "item_name": "Flawed Ruby Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_RUBY_GEM"
+    },
+    "ENCHANTMENT_MAGNET_2": {
+        "item_name": "Magnet II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_2"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_5": {
+        "item_name": "Ferocious Mana V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_5"
+    },
+    "RAW_CHICKEN": {
+        "item_name": "Raw Chicken",
+        "material": "minecraft:chicken",
+        "skyblock_id": "skyblock:RAW_CHICKEN"
+    },
+    "ENCHANTMENT_MAGNET_1": {
+        "item_name": "Magnet I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_1"
+    },
+    "SORROW": {
+        "item_name": "Sorrow",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:SORROW"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_6": {
+        "item_name": "Ferocious Mana VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_6"
+    },
+    "ENCHANTMENT_MAGNET_4": {
+        "item_name": "Magnet IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_4"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_7": {
+        "item_name": "Ferocious Mana VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_7"
+    },
+    "ENCHANTMENT_MAGNET_3": {
+        "item_name": "Magnet III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_3"
+    },
+    "FLAWLESS_JASPER_GEM": {
+        "item_name": "Flawless Jasper Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_JASPER_GEM"
+    },
+    "ENCHANTMENT_MAGNET_6": {
+        "item_name": "Magnet VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_6"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_1": {
+        "item_name": "Ferocious Mana I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_1"
+    },
+    "ENCHANTMENT_MAGNET_5": {
+        "item_name": "Magnet V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MAGNET_5"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_2": {
+        "item_name": "Ferocious Mana II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_2"
+    },
+    "LUSH_BERBERIS": {
+        "item_name": "Lush Berberis",
+        "material": "minecraft:double_plant",
+        "skyblock_id": "skyblock:LUSH_BERBERIS"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_3": {
+        "item_name": "Ferocious Mana III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_3"
+    },
+    "ENCHANTMENT_PESTERMINATOR_1": {
+        "item_name": "Pesterminator I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PESTERMINATOR_1"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_7": {
+        "item_name": "Projectile Protection VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_7"
+    },
+    "ENCHANTMENT_PESTERMINATOR_2": {
+        "item_name": "Pesterminator II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PESTERMINATOR_2"
+    },
+    "ENCHANTMENT_CHAMPION_10": {
+        "item_name": "Champion X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHAMPION_10"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_6": {
+        "item_name": "Projectile Protection VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_6"
+    },
+    "ENCHANTMENT_PESTERMINATOR_3": {
+        "item_name": "Pesterminator III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PESTERMINATOR_3"
+    },
+    "ENCHANTED_SHARK_FIN": {
+        "item_name": "Enchanted Shark Fin",
+        "material": "minecraft:prismarine_shard",
+        "skyblock_id": "skyblock:ENCHANTED_SHARK_FIN"
+    },
+    "ENCHANTMENT_PESTERMINATOR_4": {
+        "item_name": "Pesterminator IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PESTERMINATOR_4"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_5": {
+        "item_name": "Projectile Protection V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_5"
+    },
+    "ENCHANTMENT_PESTERMINATOR_5" : {
+        "item_name": "Pesterminator V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PESTERMINATOR_5"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_4": {
+        "item_name": "Projectile Protection IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_4"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_3": {
+        "item_name": "Projectile Protection III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_3"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_2": {
+        "item_name": "Projectile Protection II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_2"
+    },
+    "ENCHANTMENT_PROJECTILE_PROTECTION_1": {
+        "item_name": "Projectile Protection I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PROJECTILE_PROTECTION_1"
+    },
+    "INK_SACK": {
+        "item_name": "Ink Sack",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:INK_SACK"
+    },
+    "CRYSTAL_FRAGMENT": {
+        "item_name": "Crystal Fragment",
+        "material": "minecraft:quartz",
+        "skyblock_id": "skyblock:CRYSTAL_FRAGMENT"
+    },
+    "ENCHANTED_REDSTONE_BLOCK": {
+        "item_name": "Enchanted Redstone Block",
+        "material": "minecraft:redstone_block",
+        "skyblock_id": "skyblock:ENCHANTED_REDSTONE_BLOCK"
+    },
+    "INFERNO_APEX": {
+        "item_name": "Inferno Apex",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:INFERNO_APEX"
+    },
+    "ENCHANTED_REDSTONE_LAMP": {
+        "item_name": "Enchanted Redstone Lamp",
+        "material": "minecraft:redstone_lamp",
+        "skyblock_id": "skyblock:ENCHANTED_REDSTONE_LAMP"
+    },
+    "TREASURITE": {
+        "item_name": "Treasureite",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TREASURITE"
+    },
+    "PERFECT_OPAL_GEM": {
+        "item_name": "Perfect Opal Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_OPAL_GEM"
+    },
+    "MELON": {
+        "item_name": "Melon",
+        "material": "minecraft:melon",
+        "skyblock_id": "skyblock:MELON"
+    },
+    "DIAMONITE": {
+        "item_name": "Diamonite",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DIAMONITE"
+    },
+    "GLOWING_MUSHROOM": {
+        "item_name": "Glowing Mushroom",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLOWING_MUSHROOM"
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_4": {
+        "item_name": "Dragon Hunter IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DRAGON_HUNTER_4"
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_3": {
+        "item_name": "Dragon Hunter III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DRAGON_HUNTER_3"
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_5": {
+        "item_name": "Dragon Hunter V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DRAGON_HUNTER_5"
+    },
+    "ENCHANTED_IRON_BLOCK": {
+        "item_name": "Enchanted Iron Block",
+        "material": "minecraft:iron_block",
+        "skyblock_id": "skyblock:ENCHANTED_IRON_BLOCK"
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_2": {
+        "item_name": "Dragon Hunter II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DRAGON_HUNTER_2"
+    },
+    "BONE": {
+        "item_name": "Bone",
+        "material": "minecraft:bone",
+        "skyblock_id": "skyblock:BONE"
+    },
+    "ENCHANTMENT_DRAGON_HUNTER_1": {
+        "item_name": "Dragon Hunter I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_DRAGON_HUNTER_1"
+    },
+    "POISONOUS_POTATO": {
+        "item_name": "Poisonous Potato",
+        "material": "minecraft:poisonous_potato",
+        "skyblock_id": "skyblock:POISONOUS_POTATO"
+    },
+    "KISMET_FEATHER": {
+        "item_name": "Kismet Feather",
+        "material": "minecraft:feather",
+        "skyblock_id": "skyblock:KISMET_FEATHER"
+    },
+    "REVENANT_FLESH": {
+        "item_name": "Revenant Flesh",
+        "material": "minecraft:rotten_flesh",
+        "skyblock_id": "skyblock:REVENANT_FLESH"
+    },
+    "VOLCANIC_ROCK": {
+        "item_name": "Volcanic Rock",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:VOLCANIC_ROCK"
+    },
+    "ENCHANTED_GLOWSTONE": {
+        "item_name": "Enchanted Glowstone",
+        "material": "minecraft:glowstone",
+        "skyblock_id": "skyblock:ENCHANTED_GLOWSTONE"
+    },
+    "OBSIDIAN_TABLET": {
+        "item_name": "Obsidian Tablet",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:OBSIDIAN_TABLET"
+    },
+    "ESSENCE_WITHER": {
+        "item_name": "Wither Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_WITHER"
+    },
+    "ENCHANTMENT_CHARM_2": {
+        "item_name": "Charm II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHARM_2"
+    },
+    "ENCHANTMENT_CHARM_3": {
+        "item_name": "Charm III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHARM_3"
+    },
+    "ENCHANTMENT_CHARM_1": {
+        "item_name": "Charm I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHARM_1"
+    },
+    "BLAZE_ROD": {
+        "item_name": "Blaze Rod",
+        "material": "minecraft:blaze_rod",
+        "skyblock_id": "skyblock:BLAZE_ROD"
+    },
+    "ENCHANTMENT_CHARM_4": {
+        "item_name": "Charm IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHARM_4"
+    },
+    "YOUNG_FRAGMENT": {
+        "item_name": "Young Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:YOUNG_FRAGMENT"
+    },
+    "ENCHANTMENT_CHARM_5": {
+        "item_name": "Charm V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHARM_5"
+    },
+    "MITHRIL_PLATE": {
+        "item_name": "Mithril Plate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MITHRIL_PLATE"
+    },
+    "REFINED_MINERAL": {
+        "item_name": "Refined Mineral",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_MINERAL"
+    },
+    "CHYME": {
+        "item_name": "Chyme",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CHYME"
+    },
+    "GUARDIAN_LUCKY_BLOCK": {
+        "item_name": "Guardian Lucky Block",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GUARDIAN_LUCKY_BLOCK"
+    },
+    "DIVAN_FRAGMENT": {
+        "item_name": "Divan Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DIVAN_FRAGMENT"
+    },
+    "ROUGH_RUBY_GEM": {
+        "item_name": "Rough Ruby Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_RUBY_GEM"
+    },
+    "ENCHANTMENT_IMPALING_3": {
+        "item_name": "Impaling III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_IMPALING_3"
+    },
+    "ENCHANTMENT_IMPALING_2": {
+        "item_name": "Impaling II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_IMPALING_2"
+    },
+    "GOBLIN_EGG_BLUE": {
+        "item_name": "Blue Goblin Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:GOBLIN_EGG_BLUE"
+    },
+    "ENCHANTMENT_IMPALING_1": {
+        "item_name": "Impaling I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_IMPALING_1"
+    },
+    "CATALYST": {
+        "item_name": "Catalyst",
+        "material": "minecraft:nether_star",
+        "skyblock_id": "skyblock:CATALYST"
+    },
+    "REFINED_DARK_CACAO_TRUFFLE": {
+        "item_name": "Refined Dark Cacao Truffle",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_DARK_CACAO_TRUFFLE"
+    },
+    "JERRY_STONE": {
+        "item_name": "Jerry Stone",
+        "material": "minecraft:stone",
+        "skyblock_id": "skyblock:JERRY_STONE"
+    },
+    "ENCHANTED_INK_SACK": {
+        "item_name": "Enchanted Ink Sack",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:ENCHANTED_INK_SACK"
+    },
+    "MOLTEN_POWDER": {
+        "item_name": "Molten Powder",
+        "material": "minecraft:blaze_powder",
+        "skyblock_id": "skyblock:MOLTEN_POWDER"
+    },
+    "FLAWLESS_SAPPHIRE_GEM": {
+        "item_name": "Flawless Sapphire Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_SAPPHIRE_GEM"
+    },
+    "MAGMA_URCHIN": {
+        "item_name": "Magma Urchin",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGMA_URCHIN"
+    },
+    "PERFECT_AQUAMARINE_GEM": {
+        "item_name": "Perfect Aquamarine Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_AQUAMARINE_GEM"
+    },
+    "JACOBS_TICKET": {
+        "item_name": "Jacob's Ticket",
+        "material": "minecraft:name_tag",
+        "skyblock_id": "skyblock:JACOBS_TICKET"
+    },
+    "ENCHANTMENT_QUANTUM_4": {
+        "item_name": "Quantum IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_QUANTUM_4"
+    },
+    "BAT_FIREWORK": {
+        "item_name": "Bat Firework",
+        "material": "minecraft:firework_rocket",
+        "skyblock_id": "skyblock:BAT_FIREWORK"
+    },
+    "ENCHANTMENT_QUANTUM_5": {
+        "item_name": "Quantum V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_QUANTUM_5"
+    },
+    "ABSOLUTE_ENDER_PEARL": {
+        "item_name": "Absolute Ender Pearl",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ABSOLUTE_ENDER_PEARL"
+    },
+    "ENCHANTMENT_REPLENISH_1": {
+        "item_name": "Replenish I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_REPLENISH_1"
+    },
+    "ARACHNE_FRAGMENT": {
+        "item_name": "Arachne Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ARACHNE_FRAGMENT"
+    },
+    "ENCHANTMENT_QUANTUM_3": {
+        "item_name": "Quantum III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_QUANTUM_3"
+    },
+    "ENCHANTED_ENDER_PEARL": {
+        "item_name": "Enchanted Ender Pearl",
+        "material": "minecraft:ender_pearl",
+        "skyblock_id": "skyblock:ENCHANTED_ENDER_PEARL"
+    },
+    "ARROW_BUNDLE_MAGMA": {
+        "item_name": "Magma Arrow Bundle",
+        "material": "minecraft:arrow",
+        "skyblock_id": "skyblock:ARROW_BUNDLE_MAGMA"
+    },
+    "SPIKED_BAIT": {
+        "item_name": "Spiked Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SPIKED_BAIT"
+    },
+    "ENCHANTED_FERMENTED_SPIDER_EYE": {
+        "item_name": "Enchanted Fermented Spider Eye",
+        "material": "minecraft:fermented_spider_eye",
+        "skyblock_id": "skyblock:ENCHANTED_FERMENTED_SPIDER_EYE"
+    },
+    "FROZEN_BAIT": {
+        "item_name": "Frozen Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FROZEN_BAIT"
+    },
+    "BLESSED_FRUIT": {
+        "item_name": "Blessed Fruit",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BLESSED_FRUIT"
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_5": {
+        "item_name": "Ultimate Swarm V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SWARM_5"
+    },
+    "VERY_CRUDE_GABAGOOL": {
+        "item_name": "Very Crude Gabagool",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:VERY_CRUDE_GABAGOOL"
+    },
+    "ENCHANTMENT_TURBO_WHEAT_3": {
+        "item_name": "Turbo Wheat III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WHEAT_3"
+    },
+    "ENCHANTMENT_TURBO_WHEAT_4": {
+        "item_name": "Turbo Wheat IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WHEAT_4"
+    },
+    "ENCHANTMENT_SILK_TOUCH_1": {
+        "item_name": "Silk Touch I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SILK_TOUCH_1"
+    },
+    "ENCHANTMENT_TURBO_WHEAT_1": {
+        "item_name": "Turbo Wheat I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WHEAT_1"
+    },
+    "ENCHANTMENT_TURBO_WHEAT_2": {
+        "item_name": "Turbo Wheat II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WHEAT_2"
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_3": {
+        "item_name": "Ultimate Swarm III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SWARM_3"
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_4": {
+        "item_name": "Ultimate Swarm IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SWARM_4"
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_1": {
+        "item_name": "Ultimate Swarm I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SWARM_1"
+    },
+    "ENCHANTMENT_TURBO_WHEAT_5": {
+        "item_name": "Turbo Wheat V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_WHEAT_5"
+    },
+    "ENCHANTMENT_ULTIMATE_SWARM_2": {
+        "item_name": "Ultimate Swarm II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SWARM_2"
+    },
+    "EXPORTABLE_CARROTS": {
+        "item_name": "Exportable Carrots",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:EXPORTABLE_CARROTS"
+    },
+    "NULL_OVOID": {
+        "item_name": "Null Ovoid",
+        "material": "minecraft:spawn_egg",
+        "skyblock_id": "skyblock:NULL_OVOID"
+    },
+    "GOLD_INGOT": {
+        "item_name": "Gold Ingot",
+        "material": "minecraft:gold_ingot",
+        "skyblock_id": "skyblock:GOLD_INGOT"
+    },
+    "ENCHANTMENT_SUGAR_RUSH_3": {
+        "item_name": "Sugar Rush III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SUGAR_RUSH_3"
+    },
+    "ENCHANTMENT_SUGAR_RUSH_2": {
+        "item_name": "Sugar Rush II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SUGAR_RUSH_2"
+    },
+    "FLAWLESS_CITRINE_GEM": {
+        "item_name": "Flawless Citrine Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_CITRINE_GEM"
+    },
+    "ENCHANTED_IRON": {
+        "item_name": "Enchanted Iron",
+        "material": "minecraft:iron_ingot",
+        "skyblock_id": "skyblock:ENCHANTED_IRON"
+    },
+    "ENCHANTMENT_SUGAR_RUSH_1": {
+        "item_name": "Sugar Rush I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SUGAR_RUSH_1"
+    },
+    "ENCHANTED_HAY_BLOCK": {
+        "item_name": "Enchanted Hay Bale",
+        "material": "minecraft:hay_block",
+        "skyblock_id": "skyblock:ENCHANTED_HAY_BLOCK"
+    },
+    "HEMOVIBE": {
+        "item_name": "Hemovibe",
+        "material": "minecraft:redstone_ore",
+        "skyblock_id": "skyblock:HEMOVIBE"
+    },
+    "ENCHANTED_TITANIUM": {
+        "item_name": "Enchanted Titanium",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_TITANIUM"
+    },
+    "SPOOKY_BAIT": {
+        "item_name": "Spooky Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SPOOKY_BAIT"
+    },
+    "EMERALD": {
+        "item_name": "Emerald",
+        "material": "minecraft:emerald",
+        "skyblock_id": "skyblock:EMERALD"
+    },
+    "TWILIGHT_ARROW_POISON" :{
+        "item_name": "Twilight Arrow Poison",
+        "material": "minecraft:dye",
+        "skyblock_id": "skyblock:TWILIGHT_ARROW_POISON"
+    },
+    "ENCHANTED_RABBIT_FOOT": {
+        "item_name": "Enchanted Rabbit's Foot",
+        "material": "minecraft:rabbit_foot",
+        "skyblock_id": "skyblock:ENCHANTED_RABBIT_FOOT"
+    },
+    "POTATO_SPREADING": {
+        "item_name": "Potato Spreading",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:POTATO_SPREADING"
+    },
+    "ENCHANTED_ICE": {
+        "item_name": "Enchanted Ice",
+        "material": "minecraft:ice",
+        "skyblock_id": "skyblock:ENCHANTED_ICE"
+    },
+    "ARACHNE_KEEPER_FRAGMENT": {
+        "item_name": "Arachne Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ARACHNE_KEEPER_FRAGMENT"
+    },
+    "ENCHANTMENT_GROWTH_1": {
+        "item_name": "Growth I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_1"
+    },
+    "ENCHANTMENT_GROWTH_2": {
+        "item_name": "Growth II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_2"
+    },
+    "GREEN_GIFT": {
+        "item_name": "Green Gift",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GREEN_GIFT"
+    },
+    "ENCHANTMENT_GROWTH_3": {
+        "item_name": "Growth III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_3"
+    },
+    "ENCHANTMENT_GROWTH_4": {
+        "item_name": "Growth IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_4"
+    },
+    "SKELETON_KEY": {
+        "item_name": "Skeleton Key",
+        "material": "minecraft:tripwire_hook",
+        "skyblock_id": "skyblock:SKELETON_KEY"
+    },
+    "ENCHANTMENT_GROWTH_5": {
+        "item_name": "Growth V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_5"
+    },
+    "ENCHANTMENT_GROWTH_6": {
+        "item_name": "Growth VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_6"
+    },
+    "RED_NOSE": {
+        "item_name": "Red Nose",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RED_NOSE"
+    },
+    "FLAWLESS_AMETHYST_GEM": {
+        "item_name": "Flawless Amethyst Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_AMETHYST_GEM"
+    },
+    "NULL_EDGE": {
+        "item_name": "Null Edge",
+        "material": "minecraft:stick",
+        "skyblock_id": "skyblock:NULL_EDGE"
+    },
+    "ENCHANTMENT_GROWTH_7": {
+        "item_name": "Growth VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GROWTH_7"
+    },
+    "THORN_FRAGMENT": {
+        "item_name": "Thorn Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:THORN_FRAGMENT"
+    },
+    "PACKED_ICE": {
+        "item_name": "Packed Ice",
+        "material": "minecraft:packed_ice",
+        "skyblock_id": "skyblock:PACKED_ICE"
+    },
+    "YELLOW_FLOWER": {
+        "item_name": "Yellow Flower",
+        "material": "minecraft:yellow_flower",
+        "skyblock_id": "skyblock:YELLOW_FLOWER"
+    },
+    "CLIPPED_WINGS": {
+        "item_name": "Clipped Wings",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CLIPPED_WINGS"
+    },
+    "REVENANT_CATALYST": {
+        "item_name": "Revenant Catalyst",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REVENANT_CATALYST"
+    },
+    "WITHER_CATALYST": {
+        "item_name": "Wither Catalyst",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WITHER_CATALYST"
+    },
+    "HAMSTER_WHEEL": {
+        "item_name": "Hamster Wheel",
+        "material": "minecraft:trapdoor",
+        "skyblock_id": "skyblock:HAMSTER_WHEEL"
+    },
+    "ENCHANTED_COAL": {
+        "item_name": "Enchanted Coal",
+        "material": "minecraft:coal",
+        "skyblock_id": "skyblock:ENCHANTED_COAL"
+    },
+    "MAGMA_FISH_SILVER": {
+        "item_name": "Silver Magma Fish",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGMA_FISH_SILVER"
+    },
+    "FLAWLESS_OPAL_GEM": {
+        "item_name": "Flawless Opal Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_OPAL_GEM"
+    },
+    "SULPHURIC_COAL": {
+        "item_name": "Sulphuric Coal",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SULPHURIC_COAL"
+    },
+    "ESSENCE_UNDEAD": {
+        "item_name": "Undead Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_UNDEAD"
+    },
+    "DAEDALUS_STICK": {
+        "item_name": "Daedalus Stick",
+        "material": "minecraft:stick",
+        "skyblock_id": "skyblock:DAEDALUS_STICK"
+    },
+    "DRAGON_CLAW": {
+        "item_name": "Dragon Claw",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DRAGON_CLAW"
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_1": {
+        "item_name": "Ultimate Chimera I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_CHIMERA_1"
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_5": {
+        "item_name": "Ultimate Last Stand V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_LAST_STAND_5"
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_4": {
+        "item_name": "Ultimate Last Stand IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_LAST_STAND_4"
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_5": {
+        "item_name": "Ultimate Chimera V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_CHIMERA_5"
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_3": {
+        "item_name": "Ultimate Last Stand III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_LAST_STAND_3"
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_4": {
+        "item_name": "Ultimate Chimera IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_CHIMERA_4"
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_2": {
+        "item_name": "Ultimate Last Stand II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_LAST_STAND_2"
+    },
+    "ENCHANTMENT_ULTIMATE_LAST_STAND_1": {
+        "item_name": "Ultimate Last Stand I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_LAST_STAND_1"
+    },
+    "PET_ITEM_PURE_MITHRIL_GEM": {
+        "item_name": "Pure Mithril",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PET_ITEM_PURE_MITHRIL_GEM"
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_3": {
+        "item_name": "Ultimate Chimera III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_CHIMERA_3"
+    },
+    "JUNGLE_HEART": {
+        "item_name": "Jungle Heart",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:JUNGLE_HEART"
+    },
+    "ENCHANTMENT_ULTIMATE_CHIMERA_2": {
+        "item_name": "Ultimate Chimera II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_CHIMERA_2"
+    },
+    "LUCKY_DICE": {
+        "item_name": "Lucky Dice",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LUCKY_DICE"
+    },
+    "FOUL_FLESH": {
+        "item_name": "Foul Flesh",
+        "material": "minecraft:rotten_flesh",
+        "skyblock_id": "skyblock:FOUL_FLESH"
+    },
+    "RAW_BEEF": {
+        "item_name": "Raw Beef",
+        "material": "minecraft:beef",
+        "skyblock_id": "skyblock:RAW_BEEF"
+    },
+    "ENCHANTED_EYE_OF_ENDER": {
+        "item_name": "Enchanted Eye of Ender",
+        "material": "minecraft:ender_eye",
+        "skyblock_id": "skyblock:ENCHANTED_EYE_OF_ENDER"
+    },
+    "ECTOPLASM": {
+        "item_name": "Ectoplasm",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ECTOPLASM"
+    },
+    "PRECIOUS_PEARL": {
+        "item_name": "Precious Pearl",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PRECIOUS_PEARL"
+    },
+    "ENCHANTED_MYCELIUM": {
+        "item_name": "Enchanted Mycelium",
+        "material": "minecraft:mycelium",
+        "skyblock_id": "skyblock:ENCHANTED_MYCELIUM"
+    },
+    "MAGMA_FISH_DIAMOND": {
+        "item_name": "Diamond Magma Fish",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGMA_FISH_DIAMOND"
+    },
+    "RABBIT": {
+        "item_name": "Raw Rabbit",
+        "material": "minecraft:rabbit",
+        "skyblock_id": "skyblock:RABBIT"
+    },
+    "ENCHANTED_HOPPER": {
+        "item_name": "Enchanted Hopper",
+        "material": "minecraft:hopper",
+        "skyblock_id": "skyblock:ENCHANTED_HOPPER"
+    },
+    "GRIFFIN_FEATHER": {
+        "item_name": "Griffin Feather",
+        "material": "minecraft:feather",
+        "skyblock_id": "skyblock:GRIFFIN_FEATHER"
+    },
+    "HEMOBOMB": {
+        "item_name": "Hemobomb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HEMOBOMB"
+    },
+    "POLARVOID_BOOK": {
+        "item_name": "Polarvoid Book",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:POLARVOID_BOOK"
+    },
+    "GIANT_FRAGMENT_DIAMOND": {
+        "item_name": "Diamante's Handle",
+        "material": "minecraft:diamond_horse_armor",
+        "skyblock_id": "skyblock:GIANT_FRAGMENT_DIAMOND"
+    },
+    "SOULFLOW": {
+        "item_name": "Soulflow",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SOULFLOW"
+    },
+    "METAPHYSICAL_SERUM": {
+        "item_name": "Metaphysical Serum",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:METAPHYSICAL_SERUM"
+    },
+    "MINNOW_BAIT": {
+        "item_name": "Minnow Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MINNOW_BAIT"
+    },
+    "ENCHANTED_MAGMA_CREAM": {
+        "item_name": "Enchanted Magma Cream",
+        "material": "minecraft:magma_cream",
+        "skyblock_id": "skyblock:ENCHANTED_MAGMA_CREAM"
+    },
+    "ENCHANTED_FIREWORK_ROCKET": {
+        "item_name": "Enchanted Firework Rocket",
+        "material": "minecraft:firework_rocket",
+        "skyblock_id": "skyblock:ENCHANTED_FIREWORK_ROCKET"
+    },
+    "WITHER_BLOOD": {
+        "item_name": "Wither Blood",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WITHER_BLOOD"
+    },
+    "BLAZE_WAX": {
+        "item_name": "Blaze Wax",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BLAZE_WAX"
+    },
+    "ENCHANTMENT_EFFICIENCY_5": {
+        "item_name": "Efficiency V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_5"
+    },
+    "ENCHANTMENT_EFFICIENCY_4": {
+        "item_name": "Efficiency IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_4"
+    },
+    "CHOCOLATE_CHIP": {
+        "item_name": "Fang-tastic Chocolate Chip",
+        "material": "minecraft:cookie",
+        "skyblock_id": "skyblock:CHOCOLATE_CHIP"
+    },
+    "ENCHANTMENT_EFFICIENCY_3": {
+        "item_name": "Efficiency III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_3"
+    },
+    "ENCHANTMENT_EFFICIENCY_2": {
+        "item_name": "Efficiency II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_2"
+    },
+    "HARD_STONE": {
+        "item_name": "Hard Stone",
+        "material": "minecraft:stone",
+        "skyblock_id": "skyblock:HARD_STONE"
+    },
+    "FLAWLESS_JADE_GEM": {
+        "item_name": "Flawless Jade Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_JADE_GEM"
+    },
+    "ENCHANTMENT_EFFICIENCY_1": {
+        "item_name": "Efficiency I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_1"
+    },
+    "SUPERBOOM_TNT": {
+        "item_name": "Superboom TNT",
+        "material": "minecraft:tnt",
+        "skyblock_id": "skyblock:SUPERBOOM_TNT"
+    },
+    "ENCHANTED_COOKED_MUTTON": {
+        "item_name": "Enchanted Cooked Mutton",
+        "material": "minecraft:cooked_mutton",
+        "skyblock_id": "skyblock:ENCHANTED_COOKED_MUTTON"
+    },
+    "ENCHANTMENT_EFFICIENCY_9": {
+        "item_name": "Efficiency IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_9"
+    },
+    "ENCHANTMENT_EFFICIENCY_8": {
+        "item_name": "Efficiency VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_8"
+    },
+    "REFINED_TITANIUM": {
+        "item_name": "Refined Titanium",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_TITANIUM"
+    },
+    "FLAWED_ONYX_GEM": {
+        "item_name": "Flawed Onyx Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_ONYX_GEM"
+    },
+    "ENCHANTMENT_EFFICIENCY_7": {
+        "item_name": "Efficiency VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_7"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_10": {
+        "item_name": "Feather Falling X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_10"
+    },
+    "ENCHANTMENT_EFFICIENCY_6": {
+        "item_name": "Efficiency VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EFFICIENCY_6"
+    },
+    "ENCHANTMENT_SMOLDERING_5": {
+        "item_name": "Smoldering V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMOLDERING_5"
+    },
+    "SHINY_PRISM": {
+        "item_name": "Shiny Prism",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SHINY_PRISM"
+    },
+    "ENCHANTMENT_SMOLDERING_3": {
+        "item_name": "Smoldering III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMOLDERING_3"
+    },
+    "ENCHANTMENT_SMOLDERING_4": {
+        "item_name": "Smoldering IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMOLDERING_4"
+    },
+    "ENCHANTMENT_SMOLDERING_1": {
+        "item_name": "Smoldering I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMOLDERING_1"
+    },
+    "EGG": {
+        "item_name": "Egg",
+        "material": "minecraft:egg",
+        "skyblock_id": "skyblock:EGG"
+    },
+    "FIRST_MASTER_STAR": {
+        "item_name": "First Master Star",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FIRST_MASTER_STAR"
+    },
+    "ENCHANTMENT_SMOLDERING_2": {
+        "item_name": "Smoldering II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMOLDERING_2"
+    },
+    "UMBER_KEY": {
+        "item_name": "Umber Key",
+        "material": "minecraft:deadbush",
+        "skyblock_id": "skyblock:UMBER_KEY"
+    },
+    "FLOWERING_BOUQUET": {
+        "item_name": "Flowering Bouquet",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLOWERING_BOUQUET"
+    },
+    "SPIRIT_LEAP": {
+        "item_name": "Spirit Leap",
+        "material": "minecraft:ender_pearl",
+        "skyblock_id": "skyblock:SPIRIT_LEAP"
+    },
+    "FINE_JASPER_GEM": {
+        "item_name": "Fine Jasper Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_JASPER_GEM"
+    },
+    "BOOK_OF_STATS": {
+        "item_name": "Book of Stats",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:BOOK_OF_STATS"
+    },
+    "SIMPLE_CARROT_CANDY": {
+        "item_name": "Simple Carrot Candy",
+        "material": "minecraft:carrot",
+        "skyblock_id": "skyblock:SIMPLE_CARROT_CANDY"
+    },
+    "ENCHANTED_DIAMOND": {
+        "item_name": "Enchanted Diamond",
+        "material": "minecraft:diamond",
+        "skyblock_id": "skyblock:ENCHANTED_DIAMOND"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_20": {
+        "item_name": "Feather Falling XX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_20"
+    },
+    "OIL_BARREL": {
+        "item_name": "Oil Barrel",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:OIL_BARREL"
+    },
+    "GOLEM_POPPY": {
+        "item_name": "Ancient Rose",
+        "material": "minecraft:red_flower",
+        "skyblock_id": "skyblock:GOLEM_POPPY"
+    },
+    "HORNS_OF_TORMENT": {
+        "item_name": "Horns of Torment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HORNS_OF_TORMENT"
+    },
+    "ENCHANTMENT_CRITICAL_6": {
+        "item_name": "Critical VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_6"
+    },
+    "FARMING_FOR_DUMMIES": {
+        "item_name": "Farming for Dummies",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:FARMING_FOR_DUMMIES"
+    },
+    "JERRY_BOX_GREEN": {
+        "item_name": "Green Jerry Box",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:JERRY_BOX_GREEN"
+    },
+    "ENCHANTMENT_CRITICAL_7": {
+        "item_name": "Critical VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_7"
+    },
+    "ENCHANTMENT_CRITICAL_4": {
+        "item_name": "Critical IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_4"
+    },
+    "ENCHANTMENT_TOXOPHILITE_1": {
+        "item_name": "Toxophilite I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TOXOPHILITE_1"
+    },
+    "ENCHANTMENT_CRITICAL_5": {
+        "item_name": "Critical V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_5"
+    },
+    "ENCHANTMENT_CRITICAL_2": {
+        "item_name": "Critical II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_2"
+    },
+    "ENCHANTED_GOLDEN_CARROT": {
+        "item_name": "Enchanted Golden Carrot",
+        "material": "minecraft:golden_carrot",
+        "skyblock_id": "skyblock:ENCHANTED_GOLDEN_CARROT"
+    },
+    "ENCHANTED_TUNGSTEN": {
+        "item_name": "Enchanted Tungsten",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_TUNGSTEN"
+    },
+    "ENCHANTMENT_CRITICAL_3": {
+        "item_name": "Critical III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_3"
+    },
+    "ENCHANTMENT_CRITICAL_1": {
+        "item_name": "Critical I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CRITICAL_1"
+    },
+    "ENCHANTMENT_AIMING_1": {
+        "item_name": "Aiming I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_AIMING_1"
+    },
+    "ENCHANTMENT_AIMING_2": {
+        "item_name": "Aiming II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_AIMING_2"
+    },
+    "ENCHANTMENT_AIMING_3": {
+        "item_name": "Aiming III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_AIMING_3"
+    },
+    "ENCHANTMENT_AIMING_4": {
+        "item_name": "Aiming IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_AIMING_4"
+    },
+    "ENCHANTMENT_AIMING_5": {
+        "item_name": "Aiming V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_AIMING_5"
+    },
+    "SHADOW_WARP_SCROLL": {
+        "item_name": "Shadow Warp",
+        "material": "minecraft:writable_book",
+        "skyblock_id": "skyblock:SHADOW_WARP_SCROLL"
+    },
+    "FLAWED_PERIDOT_GEM": {
+        "item_name": "Flawed Peridot Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_PERIDOT_GEM"
+    },
+    "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4": {
+        "item_name": "Habanero Tactics IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4"
+    },
+    "ENCHANTMENT_FROST_WALKER_2": {
+        "item_name": "Frost Walker II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FROST_WALKER_2"
+    },
+    "ENCHANTMENT_THUNDERBOLT_6": {
+        "item_name": "Thunderbolt VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_6"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_7": {
+        "item_name": "Blast Protection VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_7"
+    },
+    "ENCHANTED_MYCELIUM_CUBE": {
+        "item_name": "Enchanted Mycelium Cube",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_MYCELIUM_CUBE"
+    },
+    "FLAWED_JASPER_GEM": {
+        "item_name": "Flawed Jasper Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_JASPER_GEM"
+    },
+    "ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5": {
+        "item_name": "Habanero Tactics V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5"
+    },
+    "ENCHANTMENT_FROST_WALKER_1": {
+        "item_name": "Frost Walker I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FROST_WALKER_1"
+    },
+    "EXPIRED_PUMPKIN": {
+        "item_name": "Expired Pumpkin",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:EXPIRED_PUMPKIN"
+    },
+    "ENCHANTMENT_ICE_COLD_4": {
+        "item_name": "Ice Cold IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ICE_COLD_4"
+    },
+    "ENCHANTMENT_ICE_COLD_3": {
+        "item_name": "Ice Cold III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ICE_COLD_3"
+    },
+    "ENCHANTMENT_THUNDERBOLT_1": {
+        "item_name": "Thunderbolt I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_1"
+    },
+    "GLACIAL_FRAGMENT": {
+        "item_name": "Glacial Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLACIAL_FRAGMENT"
+    },
+    "ENCHANTED_POISONOUS_POTATO": {
+        "item_name": "Enchanted Poisonous Potato",
+        "material": "minecraft:poisonous_potato",
+        "skyblock_id": "skyblock:ENCHANTED_POISONOUS_POTATO"
+    },
+    "ENCHANTMENT_ICE_COLD_5": {
+        "item_name": "Ice Cold V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ICE_COLD_5"
+    },
+    "TUNGSTEN_PLATE": {
+        "item_name": "Tungsten Plate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TUNGSTEN_PLATE"
+    },
+    "FLAWED_AMBER_GEM": {
+        "item_name": "Flawed Amber Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWED_AMBER_GEM"
+    },
+    "ENCHANTMENT_THUNDERBOLT_4": {
+        "item_name": "Thunderbolt IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_4"
+    },
+    "ENCHANTMENT_THUNDERBOLT_5": {
+        "item_name": "Thunderbolt V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_5"
+    },
+    "ENCHANTMENT_ICE_COLD_2": {
+        "item_name": "Ice Cold II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ICE_COLD_2"
+    },
+    "ENCHANTMENT_THUNDERBOLT_2": {
+        "item_name": "Thunderbolt II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_2"
+    },
+    "ENCHANTMENT_ICE_COLD_1": {
+        "item_name": "Ice Cold I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ICE_COLD_1"
+    },
+    "ENCHANTMENT_THUNDERBOLT_3": {
+        "item_name": "Thunderbolt III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THUNDERBOLT_3"
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_1": {
+        "item_name": "Duplex I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REITERATE_1"
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_4": {
+        "item_name": "Duplex IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REITERATE_4"
+    },
+    "ENCHANTMENT_COMPACT_10": {
+        "item_name": "Compact X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_10"
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_5": {
+        "item_name": "Duplex V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REITERATE_5"
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_2": {
+        "item_name": "Duplex II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REITERATE_2"
+    },
+    "PRISMARINE_SHARD": {
+        "item_name": "Prismarine Shard",
+        "material": "minecraft:prismarine_shard",
+        "skyblock_id": "skyblock:PRISMARINE_SHARD"
+    },
+    "ENCHANTMENT_ULTIMATE_REITERATE_3": {
+        "item_name": "Duplex III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_REITERATE_3"
+    },
+    "SYNTHETIC_HEART": {
+        "item_name": "Synthetic Heart",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SYNTHETIC_HEART"
+    },
+    "POWER_CRYSTAL": {
+        "item_name": "Power Crystal",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:POWER_CRYSTAL"
+    },
+    "SHARK_FIN": {
+        "item_name": "Shark Fin",
+        "material": "minecraft:prismarine_shard",
+        "skyblock_id": "skyblock:SHARK_FIN"
+    },
+    "WISE_FRAGMENT": {
+        "item_name": "Wise Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WISE_FRAGMENT"
+    },
+    "PERFECT_PERIDOT_GEM": {
+        "item_name": "Perfect Peridot Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_PERIDOT_GEM"
+    },
+    "REFINED_MITHRIL": {
+        "item_name": "Refined Mithril",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_MITHRIL"
+    },
+    "XXLARGE_ENCHANTED_CHEST": {
+        "item_name": "XX-Large Storage",
+        "material": "minecraft:chest",
+        "skyblock_id": "skyblock:XXLARGE_ENCHANTED_CHEST"
+    },
+    "FUEL_TANK": {
+        "item_name": "Fuel Tank",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FUEL_TANK"
+    },
+    "UMBER_PLATE": {
+        "item_name": "Umber Plate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:UMBER_PLATE"
+    },
+    "JALAPENO_BOOK": {
+        "item_name": "Jalapeno Book",
+        "material": "minecraft:book",
+        "skyblock_id": "skyblock:JALAPENO_BOOK"
+    },
+    "ENCHANTMENT_VENOMOUS_3": {
+        "item_name": "Venomous III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_3"
+    },
+    "POTATO_ITEM": {
+        "item_name": "Potato",
+        "material": "minecraft:potato",
+        "skyblock_id": "skyblock:POTATO_ITEM"
+    },
+    "ENCHANTMENT_VENOMOUS_4": {
+        "item_name": "Venomous IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_4"
+    },
+    "ENCHANTMENT_VENOMOUS_5": {
+        "item_name": "Venomous V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_5"
+    },
+    "SKYMART_BROCHURE": {
+        "item_name": "Skymart Brochure",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SKYMART_BROCHURE"
+    },
+    "ENCHANTED_HUGE_MUSHROOM_1": {
+        "item_name": "Enchanted Brown Mushroom Block",
+        "material": "minecraft:red_mushroom",
+        "skyblock_id": "skyblock:ENCHANTED_HUGE_MUSHROOM_1"
+    },
+    "ENCHANTMENT_VENOMOUS_6": {
+        "item_name": "Venomous VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_6"
+    },
+    "PRESUMED_GALLON_OF_RED_PAINT": {
+        "item_name": "Presumed Gallon of Red Paint",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PRESUMED_GALLON_OF_RED_PAINT"
+    },
+    "HEMOGLASS": {
+        "item_name": "Hemoglass",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HEMOGLASS"
+    },
+    "ENCHANTMENT_VENOMOUS_1": {
+        "item_name": "Venomous I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_1"
+    },
+    "ENCHANTMENT_VENOMOUS_2": {
+        "item_name": "Venomous II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VENOMOUS_2"
+    },
+    "ELECTRON_TRANSMITTER": {
+        "item_name": "Electron Transmitter",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ELECTRON_TRANSMITTER"
+    },
+    "ENCHANTED_COBBLESTONE": {
+        "item_name": "Enchanted Cobblestone",
+        "material": "minecraft:cobblestone",
+        "skyblock_id": "skyblock:ENCHANTED_COBBLESTONE"
+    },
+    "ENCHANTMENT_STRONG_MANA_10": {
+        "item_name": "Strong Mana X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_STRONG_MANA_10"
+    },
+    "ENCHANTED_HUGE_MUSHROOM_2": {
+        "item_name": "Enchanted Red Mushroom Block",
+        "material": "minecraft:red_mushroom",
+        "skyblock_id": "skyblock:ENCHANTED_HUGE_MUSHROOM_2"
+    },
+    "GLOWY_CHUM_BAIT": {
+        "item_name": "Glowy Chum Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLOWY_CHUM_BAIT"
+    },
+    "STUFFED_CHILI_PEPPER": {
+        "item_name": "Stuffed Chili Pepper",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:STUFFED_CHILI_PEPPER"
+    },
+    "BUDGET_HOPPER": {
+        "item_name": "Budget Hopper",
+        "material": "minecraft:hopper",
+        "skyblock_id": "skyblock:BUDGET_HOPPER"
+    },
+    "ICE_BAIT": {
+        "item_name": "Ice Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ICE_BAIT"
+    },
+    "TERRY_SNOWGLOBE": {
+        "item_name": "Terry Snowglobe",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TERRY_SNOWGLOBE"
+    },
+    "FINE_ONYX_GEM": {
+        "item_name": "Fine Onyx Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FINE_ONYX_GEM"
+    },
+    "CHEESE_FUEL": {
+        "item_name": "Tasty Cheese",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CHEESE_FUEL"
+    },
+    "KUUDRA_MANDIBLE": {
+        "item_name": "Kuudra Mandible",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:KUUDRA_MANDIBLE"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_3": {
+        "item_name": "Feather Falling III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_3"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_2": {
+        "item_name": "Feather Falling II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_2"
+    },
+    "PUMPKIN_GUTS": {
+        "item_name": "Pumpkin Guts",
+        "material": "minecraft:pumpkin_seeds",
+        "skyblock_id": "skyblock:PUMPKIN_GUTS"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_1": {
+        "item_name": "Feather Falling I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_1"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_7": {
+        "item_name": "Feather Falling VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_7"
+    },
+    "BLAZE_ROD_DISTILLATE": {
+        "item_name": "Blaze Rod Distillate",
+        "material": "minecraft:blaze_rod",
+        "skyblock_id": "skyblock:BLAZE_ROD_DISTILLATE"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_6": {
+        "item_name": "Feather Falling VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_6"
+    },
+    "WITHER_SHIELD_SCROLL": {
+        "item_name": "Wither Shield",
+        "material": "minecraft:writable_book",
+        "skyblock_id": "skyblock:WITHER_SHIELD_SCROLL"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_5": {
+        "item_name": "Feather Falling V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_5"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_4": {
+        "item_name": "Feather Falling IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_4"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_9": {
+        "item_name": "Feather Falling IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_9"
+    },
+    "ACACIA_BIRDHOUSE": {
+        "item_name": "Acacia Birdhouse",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ACACIA_BIRDHOUSE"
+    },
+    "ENCHANTMENT_FEATHER_FALLING_8": {
+        "item_name": "Feather Falling VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEATHER_FALLING_8"
+    },
+    "SPIDER_CATALYST": {
+        "item_name": "Spider Catalyst",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SPIDER_CATALYST"
+    },
+    "ENCHANTED_LAPIS_LAZULI_BLOCK": {
+        "item_name": "Enchanted Lapis Block",
+        "material": "minecraft:lapis_block",
+        "skyblock_id": "skyblock:ENCHANTED_LAPIS_LAZULI_BLOCK"
+    },
+    "ENCHANTED_ENDSTONE": {
+        "item_name": "Enchanted End Stone",
+        "material": "minecraft:end_stone",
+        "skyblock_id": "skyblock:ENCHANTED_ENDSTONE"
+    },
+    "ENCHANTED_SAND": {
+        "item_name": "Enchanted Sand",
+        "material": "minecraft:sand",
+        "skyblock_id": "skyblock:ENCHANTED_SAND"
+    },
+    "ESSENCE_ICE": {
+        "item_name": "Ice Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_ICE"
+    },
+    "COLOSSAL_EXP_BOTTLE": {
+        "item_name": "Colossal Experience Bottle",
+        "material": "minecraft:experience_bottle",
+        "skyblock_id": "skyblock:COLOSSAL_EXP_BOTTLE"
+    },
+    "ENCHANTED_STRING": {
+        "item_name": "Enchanted String",
+        "material": "minecraft:string",
+        "skyblock_id": "skyblock:ENCHANTED_STRING"
+    },
+    "PERFECT_ONYX_GEM": {
+        "item_name": "Perfect Onyx Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_ONYX_GEM"
+    },
+    "MOIL_LOG": {
+        "item_name": "Moil Log",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MOIL_LOG"
+    },
+    "ENCHANTED_DANDELION": {
+        "item_name": "Enchanted Dandelion",
+        "material": "minecraft:yellow_flower",
+        "skyblock_id": "skyblock:ENCHANTED_DANDELION"
+    },
+    "MIMIC_FRAGMENT": {
+        "item_name": "Mimic Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MIMIC_FRAGMENT"
+    },
+    "MAGMA_FISH_GOLD": {
+        "item_name": "Magma Fish Gold",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGMA_FISH_GOLD"
+    },
+    "SOUL_FRAGMENT": {
+        "item_name": "Soul Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SOUL_FRAGMENT"
+    },
+    "ENCHANTED_LAPIS_LAZULI": {
+        "item_name": "Enchanted Lapis Lazuli",
+        "material": "minecraft:lapis_lazuli",
+        "skyblock_id": "skyblock:ENCHANTED_LAPIS_LAZULI"
+    },
+    "ENDERMAN_CORTEX_REWRITER": {
+        "item_name": "Enderman Cortex Rewriter",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENDERMAN_CORTEX_REWRITER"
+    },
+    "MELON_BLOCK": {
+        "item_name": "Melon Block",
+        "material": "minecraft:melon_block",
+        "skyblock_id": "skyblock:MELON_BLOCK"
+    },
+    "CRUDE_GABAGOOL_DISTILLATE": {
+        "item_name": "Gabagool Distillate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CRUDE_GABAGOOL_DISTILLATE"
+    },
+    "SEEDS": {
+        "item_name": "Seeds",
+        "material": "minecraft:wheat_seeds",
+        "skyblock_id": "skyblock:SEEDS"
+    },
+    "ENCHANTED_LEATHER": {
+        "item_name": "Enchanted Leather",
+        "material": "minecraft:leather",
+        "skyblock_id": "skyblock:ENCHANTED_LEATHER"
+    },
+    "ENCHANTED_SPONGE": {
+        "item_name": "Enchanted Sponge",
+        "material": "minecraft:sponge",
+        "skyblock_id": "skyblock:ENCHANTED_SPONGE"
+    },
+    "ENCHANTED_NETHER_STALK": {
+        "item_name": "Enchanted Nether Wart",
+        "material": "minecraft:nether_wart",
+        "skyblock_id": "skyblock:ENCHANTED_NETHER_STALK"
+    },
+    "ENCHANTMENT_CURSE_OF_VANISHING_0": {
+        "item_name": "Curse of Vanishing",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CURSE_OF_VANISHING_0"
+    },
+    "ENCHANTED_REDSTONE": {
+        "item_name": "Enchanted Redstone",
+        "material": "minecraft:redstone",
+        "skyblock_id": "skyblock:ENCHANTED_REDSTONE"
+    },
+    "METEOR_SHARD": {
+        "item_name": "Meteor Shard",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:METEOR_SHARD"
+    },
+    "ENCHANTMENT_COMPACT_2": {
+        "item_name": "Compact II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_2"
+    },
+    "ENCHANTMENT_COMPACT_3": {
+        "item_name": "Compact III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_3"
+    },
+    "DWARVEN_COMPACTOR": {
+        "item_name": "Dwarven Compactor",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DWARVEN_COMPACTOR"
+    },
+    "ENCHANTMENT_COMPACT_1": {
+        "item_name": "Compact I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_1"
+    },
+    "GREAT_WHITE_SHARK_TOOTH": {
+        "item_name": "Great White Shark Tooth",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:GREAT_WHITE_SHARK_TOOTH"
+    },
+    "ESSENCE_GOLD" :{
+        "item_name": "Gold Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_GOLD"
+    },
+    "ENCHANTMENT_PRISTINE_1": {
+        "item_name": "Pristine I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PRISTINE_1"
+    },
+    "ENCHANTMENT_COMPACT_6": {
+        "item_name": "Compact VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_6"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_4": {
+        "item_name": "Blast Protection IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_4"
+    },
+    "ENCHANTMENT_PRISTINE_2": {
+        "item_name": "Pristine II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PRISTINE_2"
+    },
+    "ENCHANTMENT_COMPACT_7": {
+        "item_name": "Compact VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_7"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_3": {
+        "item_name": "Blast Protection III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_3"
+    },
+    "RECOMBOBULATOR_3000": {
+        "item_name": "Recombobulator 3000",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RECOMBOBULATOR_3000"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_6": {
+        "item_name": "Blast Protection VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_6"
+    },
+    "ENCHANTMENT_COMPACT_4": {
+        "item_name": "Compact IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_4"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_5": {
+        "item_name": "Blast Protection V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_5"
+    },
+    "ENCHANTMENT_COMPACT_5": {
+        "item_name": "Compact V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_5"
+    },
+    "ENCHANTMENT_PRISTINE_5": {
+        "item_name": "Pristine V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PRISTINE_5"
+    },
+    "ENCHANTMENT_PRISTINE_3": {
+        "item_name": "Pristine III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PRISTINE_3"
+    },
+    "ENCHANTMENT_COMPACT_8": {
+        "item_name": "Compact VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_8"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_2": {
+        "item_name": "Blast Protection II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_2"
+    },
+    "ENCHANTMENT_PRISTINE_4": {
+        "item_name": "Pristine IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PRISTINE_4"
+    },
+    "ENCHANTMENT_COMPACT_9": {
+        "item_name": "Compact IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_COMPACT_9"
+    },
+    "ENCHANTMENT_BLAST_PROTECTION_1": {
+        "item_name": "Blast Protection I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_BLAST_PROTECTION_1"
+    },
+    "ENCHANTMENT_FEROCIOUS_MANA_10": {
+        "item_name": "Ferocious Mana X",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FEROCIOUS_MANA_10"
+    },
+    "ENCHANTED_PORK": {
+        "item_name": "Enchanted Pork",
+        "material": "minecraft:porkchop",
+        "skyblock_id": "skyblock:ENCHANTED_PORK"
+    },
+    "PET_ITEM_LUCKY_CLOVER_DROP": {
+        "item_name": "Lucky Clover Drop",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PET_ITEM_LUCKY_CLOVER_DROP"
+    },
+    "NECROMANCER_BROOCH": {
+        "item_name": "Necromancer Brooch",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:NECROMANCER_BROOCH"
+    },
+    "BURROWING_SPORES": {
+        "item_name": "Burrowing Spores",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BURROWING_SPORES"
+    },
+    "DEEP_SEA_ORB": {
+        "item_name": "Deep Sea Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:DEEP_SEA_ORB"
+    },
+    "ROUGH_JASPER_GEM": {
+        "item_name": "Rough Jasper Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_JASPER_GEM"
+    },
+    "FEATHER": {
+        "item_name": "Feather",
+        "material": "minecraft:feather",
+        "skyblock_id": "skyblock:FEATHER"
+    },
+    "PETRIFIED_STARFALL": {
+        "item_name": "Petrified Starfall",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PETRIFIED_STARFALL"
+    },
+    "MAGIC_TOP_HAT": {
+        "item_name": "Magic Top Hat",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MAGIC_TOP_HAT"
+    },
+    "ENCHANTED_RED_SAND": {
+        "item_name": "Enchanted Red Sand",
+        "material": "minecraft:red_sand",
+        "skyblock_id": "skyblock:ENCHANTED_RED_SAND"
+    },
+    "ENCHANTED_CLOWNFISH": {
+        "item_name": "Enchanted Clownfish",
+        "material": "minecraft:clownfish",
+        "skyblock_id": "skyblock:ENCHANTED_CLOWNFISH"
+    },
+    "REFINED_UMBER": {
+        "item_name": "Refined Umber",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:REFINED_UMBER"
+    },
+    "PITCHIN_KOI": {
+        "item_name": "Pitchin' Koi",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PITCHIN_KOI"
+    },
+    "ENCHANTED_GOLD": {
+        "item_name": "Enchanted Gold",
+        "material": "minecraft:gold_ingot",
+        "skyblock_id": "skyblock:ENCHANTED_GOLD"
+    },
+    "ENCHANTMENT_LIFE_STEAL_1": {
+        "item_name": "Life Steal I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LIFE_STEAL_1"
+    },
+    "ENCHANTMENT_LIFE_STEAL_2": {
+        "item_name": "Life Steal II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LIFE_STEAL_2"
+    },
+    "ENCHANTMENT_SMELTING_TOUCH_1": {
+        "item_name": "Smelting Touch I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_SMELTING_TOUCH_1"
+    },
+    "ROUGH_CITRINE_GEM": {
+        "item_name": "Rough Citrine Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_CITRINE_GEM"
+    },
+    "ENCHANTMENT_LIFE_STEAL_5": {
+        "item_name": "Life Steal V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LIFE_STEAL_5"
+    },
+    "ENCHANTMENT_LIFE_STEAL_3": {
+        "item_name": "Life Steal III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LIFE_STEAL_3"
+    },
+    "ENCHANTMENT_LIFE_STEAL_4": {
+        "item_name": "Life Steal IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_LIFE_STEAL_4"
+    },
+    "ENCHANTMENT_PISCARY_1": {
+        "item_name": "Piscary I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_1"
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_5": {
+        "item_name": "Turbo Mushrooms V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MUSHROOMS_5"
+    },
+    "GOLDEN_PLATE": {
+        "item_name": "Golden Plate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GOLDEN_PLATE"
+    },
+    "SADAN_BROOCH": {
+        "item_name": "Sadan's Brooch",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SADAN_BROOCH"
+    },
+    "FIFTH_MASTER_STAR": {
+        "item_name": "Fifth Master Star",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FIFTH_MASTER_STAR"
+    },
+    "ENCHANTMENT_PISCARY_3": {
+        "item_name": "Piscary III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_3"
+    },
+    "ENCHANTMENT_PISCARY_2": {
+        "item_name": "Piscary II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_2"
+    },
+    "ENCHANTED_GLOWSTONE_DUST": {
+        "item_name": "Enchanted Glowstone Dust",
+        "material": "minecraft:glowstone_dust",
+        "skyblock_id": "skyblock:ENCHANTED_GLOWSTONE_DUST"
+    },
+    "BLUE_ICE_HUNK": {
+        "item_name": "Blue Ice Hunk",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BLUE_ICE_HUNK"
+    },
+    "ENCHANTMENT_PISCARY_5": {
+        "item_name": "Piscary V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_5"
+    },
+    "ENCHANTMENT_PISCARY_4": {
+        "item_name": "Piscary IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_4"
+    },
+    "ENCHANTMENT_PISCARY_6": {
+        "item_name": "Piscary VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PISCARY_6"
+    },
+    "ENCHANTMENT_TABASCO_1": {
+        "item_name": "Tabasco I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TABASCO_1"
+    },
+    "ENCHANTMENT_TABASCO_3": {
+        "item_name": "Tabasco III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TABASCO_3"
+    },
+    "ENCHANTMENT_PUNCH_1": {
+        "item_name": "Punch I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PUNCH_1"
+    },
+    "TRANSMISSION_TUNER": {
+        "item_name": "Transmission Tuner",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:TRANSMISSION_TUNER"
+    },
+    "ENCHANTED_SUGAR_CANE": {
+        "item_name": "Enchanted Sugar Cane",
+        "material": "minecraft:sugar_cane",
+        "skyblock_id": "skyblock:ENCHANTED_SUGAR_CANE"
+    },
+    "ENCHANTMENT_TABASCO_2": {
+        "item_name": "Tabasco II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TABASCO_2"
+    },
+    "ENCHANTMENT_PUNCH_2": {
+        "item_name": "Punch II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PUNCH_2"
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_2": {
+        "item_name": "Turbo Mushrooms II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MUSHROOMS_2"
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_1": {
+        "item_name": "Turbo Mushrooms I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MUSHROOMS_1"
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_4": {
+        "item_name": "Turbo Mushrooms IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MUSHROOMS_4"
+    },
+    "ENCHANTMENT_TURBO_MUSHROOMS_3": {
+        "item_name": "Turbo Mushrooms III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_MUSHROOMS_3"
+    },
+    "CONCENTRATED_STONE": {
+        "item_name": "Concentrated Stone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CONCENTRATED_STONE"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_2": {
+        "item_name": "Mana Vampire II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_2"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_1": {
+        "item_name": "Mana Vampire I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_1"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_4": {
+        "item_name": "Mana Vampire IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_4"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_3": {
+        "item_name": "Mana Vampire III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_3"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_6": {
+        "item_name": "Mana Vampire VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_6"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_5": {
+        "item_name": "Mana Vampire V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_5"
+    },
+    "SHARK_WATER_ORB": {
+        "item_name": "Shark Water Orb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SHARK_WATER_ORB"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_8": {
+        "item_name": "Mana Vampire VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_8"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_7": {
+        "item_name": "Mana Vampire VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_7"
+    },
+    "GHAST_TEAR": {
+        "item_name": "Ghast Tear",
+        "material": "minecraft:ghast_tear",
+        "skyblock_id": "skyblock:GHAST_TEAR"
+    },
+    "ENCHANTMENT_MANA_VAMPIRE_9": {
+        "item_name": "Mana Vampire IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_MANA_VAMPIRE_9"
+    },
+    "UNSTABLE_FRAGMENT": {
+        "item_name": "Unstable Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:UNSTABLE_FRAGMENT"
+    },
+    "MAGMA_CREAM_DISTILLATE": {
+        "item_name": "Magma Cream Distillate",
+        "material": "minecraft:magma_cream",
+        "skyblock_id": "skyblock:MAGMA_CREAM_DISTILLATE"
+    },
+    "CORLEONITE": {
+        "item_name": "Corleonite",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CORLEONITE"
+    },
+    "ENCHANTED_EMERALD_BLOCK": {
+        "item_name": "Enchanted Emerald Block",
+        "material": "minecraft:emerald_block",
+        "skyblock_id": "skyblock:ENCHANTED_EMERALD_BLOCK"
+    },
+    "SUBZERO_INVERTER": {
+        "item_name": "Subzero Inverter",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUBZERO_INVERTER"
+    },
+    "GIANT_TOOTH": {
+        "item_name": "Giant Tooth",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GIANT_TOOTH"
+    },
+    "ENCHANTMENT_PIERCING_1": {
+        "item_name": "Piercing I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_PIERCING_1"
+    },
+    "ENCHANTMENT_ULTIMATE_THE_ONE_5": {
+        "item_name": "The One V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_THE_ONE_5"
+    },
+    "SLEEPY_HOLLOW": {
+        "item_name": "Sleepy Hollow",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SLEEPY_HOLLOW"
+    },
+    "ENCHANTMENT_TITAN_KILLER_7": {
+        "item_name": "Titan Killer VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_7"
+    },
+    "ENCHANTED_MUTTON": {
+        "item_name": "Enchanted Mutton",
+        "material": "minecraft:mutton",
+        "skyblock_id": "skyblock:ENCHANTED_MUTTON"
+    },
+    "ENCHANTMENT_TITAN_KILLER_6": {
+        "item_name": "Titan Killer VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_6"
+    },
+    "NULL_SPHERE": {
+        "item_name": "Null Sphere",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:NULL_SPHERE"
+    },
+    "ENCHANTMENT_TITAN_KILLER_5": {
+        "item_name": "Titan Killer V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_5"
+    },
+    "ENCHANTMENT_TITAN_KILLER_4": {
+        "item_name": "Titan Killer IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_4"
+    },
+    "ENCHANTMENT_TITAN_KILLER_3": {
+        "item_name": "Titan Killer III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_3"
+    },
+    "ENCHANTMENT_TITAN_KILLER_2": {
+        "item_name": "Titan Killer II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_2"
+    },
+    "ENCHANTMENT_TITAN_KILLER_1": {
+        "item_name": "Titan Killer I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TITAN_KILLER_1"
+    },
+    "STOCK_OF_STONKS": {
+        "item_name": "Stock of Stonks",
+        "material": "minecraft:paper",
+        "skyblock_id": "skyblock:STOCK_OF_STONKS"
+    },
+    "SUPERIOR_FRAGMENT": {
+        "item_name": "Superior Dragon Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SUPERIOR_FRAGMENT"
+    },
+    "MAGMA_BUCKET": {
+        "item_name": "Magma Bucket",
+        "material": "minecraft:lava_bucket",
+        "skyblock_id": "skyblock:MAGMA_BUCKET"
+    },
+    "ENCHANTMENT_ULTIMATE_THE_ONE_4": {
+        "item_name": "The One IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_THE_ONE_4"
+    },
+    "ENCHANTMENT_POWER_1": {
+        "item_name": "Power I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_1"
+    },
+    "HOT_BAIT": {
+        "item_name": "Hot Bait",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HOT_BAIT"
+    },
+    "NULL_BLADE": {
+        "item_name": "Null Blade",
+        "material": "minecraft:shears",
+        "skyblock_id": "skyblock:NULL_BLADE"
+    },
+    "ENCHANTMENT_POWER_7": {
+        "item_name": "Power VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_7"
+    },
+    "ENCHANTMENT_POWER_6": {
+        "item_name": "Power VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_6"
+    },
+    "ENCHANTMENT_ANGLER_1": {
+        "item_name": "Angler I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_1"
+    },
+    "ENCHANTMENT_ANGLER_2": {
+        "item_name": "Angler II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_2"
+    },
+    "WORM_MEMBRANE": {
+        "item_name": "Worm Membrane",
+        "material": "minecraft:rotten_flesh",
+        "skyblock_id": "skyblock:WORM_MEMBRANE"
+    },
+    "GLACITE_SHARD": {
+        "item_name": "Glacite Shard",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GLACITE_SHARD"
+    },
+    "ENCHANTMENT_ANGLER_3": {
+        "item_name": "Angler III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_3"
+    },
+    "ENCHANTMENT_POWER_3": {
+        "item_name": "Power III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_3"
+    },
+    "ENCHANTMENT_ANGLER_4": {
+        "item_name": "Angler IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_4"
+    },
+    "BLACK_WOOLEN_YARN": {
+        "item_name": "Black Woolen Yarn",
+        "material": "minecraft:wool",
+        "skyblock_id": "skyblock:BLACK_WOOLEN_YARN"
+    },
+    "ENCHANTMENT_ANGLER_5": {
+        "item_name": "Angler V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_5"
+    },
+    "ENCHANTMENT_POWER_2": {
+        "item_name": "Power II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_2"
+    },
+    "ENCHANTMENT_ANGLER_6": {
+        "item_name": "Angler VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ANGLER_6"
+    },
+    "ENCHANTMENT_POWER_5": {
+        "item_name": "Power V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_5"
+    },
+    "ENCHANTMENT_POWER_4": {
+        "item_name": "Power IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_POWER_4"
+    },
+    "WATER_LILY": {
+        "item_name": "Lily Pad",
+        "material": "minecraft:waterlily",
+        "skyblock_id": "skyblock:WATER_LILY"
+    },
+    "ENCHANTMENT_THORNS_3": {
+        "item_name": "Thorns III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THORNS_3"
+    },
+    "BOB_OMB": {
+        "item_name": "Bob-omb",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:BOB_OMB"
+    },
+    "LOG_2": {
+        "item_name": "Acacia Wood",
+        "material": "minecraft:log2",
+        "skyblock_id": "skyblock:LOG_2"
+    },
+    "MITHRIL_INFUSION": {
+        "item_name": "Mithril Infusion",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:MITHRIL_INFUSION"
+    },
+    "COAL": {
+        "item_name": "Coal",
+        "material": "minecraft:coal",
+        "skyblock_id": "skyblock:COAL"
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_3": {
+        "item_name": "Bobbin' Time III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_BOBBIN_TIME_3"
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_4": {
+        "item_name": "Bobbin' Time IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_BOBBIN_TIME_4"
+    },
+    "ENCHANTMENT_ULTIMATE_BOBBIN_TIME_5": {
+        "item_name": "Bobbin' Time V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_BOBBIN_TIME_5"
+    },
+    "ENCHANTMENT_THORNS_1": {
+        "item_name": "Thorns I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THORNS_1"
+    },
+    "ENCHANTMENT_THORNS_2": {
+        "item_name": "Thorns II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_THORNS_2"
+    },
+    "ENCHANTMENT_VAMPIRISM_5": {
+        "item_name": "Vampirism V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_5"
+    },
+    "ENCHANTED_PRISMARINE_CRYSTALS": {
+        "item_name": "Enchanted Prismarine Crystals",
+        "material": "minecraft:prismarine_crystals",
+        "skyblock_id": "skyblock:ENCHANTED_PRISMARINE_CRYSTALS"
+    },
+    "GOBLIN_EGG": {
+        "item_name": "Goblin Egg",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GOBLIN_EGG"
+    },
+    "PERFECT_TOPAZ_GEM": {
+        "item_name": "Perfect Topaz Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_TOPAZ_GEM"
+    },
+    "ENCHANTMENT_VAMPIRISM_6": {
+        "item_name": "Vampirism VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_6"
+    },
+    "LIVID_FRAGMENT": {
+        "item_name": "Livid Fragment",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:LIVID_FRAGMENT"
+    },
+    "ENCHANTMENT_VAMPIRISM_3": {
+        "item_name": "Vampirism III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_3"
+    },
+    "PLASMA": {
+        "item_name": "Plasma",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PLASMA"
+    },
+    "ENCHANTMENT_VAMPIRISM_4": {
+        "item_name": "Vampirism IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_4"
+    },
+    "ENCHANTED_WET_SPONGE": {
+        "item_name": "Enchanted Wet Sponge",
+        "material": "minecraft:sponge",
+        "skyblock_id": "skyblock:ENCHANTED_WET_SPONGE"
+    },
+    "ENCHANTMENT_EXPERTISE_7": {
+        "item_name": "Expertise VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERTISE_7"
+    },
+    "ENCHANTMENT_EXPERTISE_6": {
+        "item_name": "Expertise VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERTISE_6"
+    },
+    "ENCHANTMENT_EXPERTISE_9": {
+        "item_name": "Expertise IX",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERTISE_9"
+    },
+    "ENCHANTMENT_CULTIVATING_7": {
+        "item_name": "Cultivating VII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_7"
+    },
+    "ENCHANTMENT_EXPERTISE_8": {
+        "item_name": "Expertise VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_EXPERTISE_8"
+    },
+    "ENCHANTMENT_CULTIVATING_8": {
+        "item_name": "Cultivating VIII",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_8"
+    },
+    "ENCHANTMENT_CULTIVATING_5": {
+        "item_name": "Cultivating V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_5"
+    },
+    "ENDER_STONE": {
+        "item_name": "End Stone",
+        "material": "minecraft:end_stone",
+        "skyblock_id": "skyblock:ENDER_STONE"
+    },
+    "ESSENCE_CRIMSON": {
+        "item_name": "Crimson Essence",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ESSENCE_CRIMSON"
+    },
+    "PERFECT_PLATE": {
+        "item_name": "Perfect Plate",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:PERFECT_PLATE"
+    },
+    "ENCHANTMENT_CULTIVATING_6": {
+        "item_name": "Cultivating VI",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_6"
+    },
+    "ENCHANTMENT_CULTIVATING_3": {
+        "item_name": "Cultivating III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_3"
+    },
+    "ENCHANTMENT_CULTIVATING_4": {
+        "item_name": "Cultivating IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_4"
+    },
+    "ENCHANTMENT_CULTIVATING_1": {
+        "item_name": "Cultivating I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_1"
+    },
+    "ENCHANTMENT_VAMPIRISM_1": {
+        "item_name": "Vampirism I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_1"
+    },
+    "ENCHANTMENT_VAMPIRISM_2": {
+        "item_name": "Vampirism II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_VAMPIRISM_2"
+    },
+    "ENCHANTMENT_CULTIVATING_2": {
+        "item_name": "Cultivating II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CULTIVATING_2"
+    },
+    "QUARTZ": {
+        "item_name": "Nether Quartz",
+        "material": "minecraft:quartz",
+        "skyblock_id": "skyblock:QUARTZ"
+    },
+    "JERRY_BOX_PURPLE": {
+        "item_name": "Purple Jerry Box",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:JERRY_BOX_PURPLE"
+    },
+    "SALMON_OPAL": {
+        "item_name": "Salmon Opal",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:SALMON_OPAL"
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_1": {
+        "item_name": "Soul Eater I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SOUL_EATER_1"
+    },
+    "CHUM": {
+        "item_name": "Chum",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:CHUM"
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_3": {
+        "item_name": "Soul Eater III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SOUL_EATER_3"
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_2": {
+        "item_name": "Soul Eater II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SOUL_EATER_2"
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_5": {
+        "item_name": "Soul Eater V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SOUL_EATER_5"
+    },
+    "ENCHANTMENT_ULTIMATE_SOUL_EATER_4": {
+        "item_name": "Soul Eater IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_SOUL_EATER_4"
+    },
+    "MAGMA_CREAM": {
+        "item_name": "Magma Cream",
+        "material": "minecraft:magma_cream",
+        "skyblock_id": "skyblock:MAGMA_CREAM"
+    },
+    "ENCHANTED_COMPOST": {
+        "item_name": "Compost Bundle",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_COMPOST"
+    },
+    "ENCHANTMENT_CHANCE_2": {
+        "item_name": "Luck II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHANCE_2"
+    },
+    "ENCHANTED_MITHRIL": {
+        "item_name": "Enchanted Mithril",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ENCHANTED_MITHRIL"
+    },
+    "RED_GIFT": {
+        "item_name": "Red Gift",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:RED_GIFT"
+    },
+    "ENCHANTMENT_CHANCE_1": {
+        "item_name": "Luck I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHANCE_1"
+    },
+    "ROUGH_PERIDOT_GEM": {
+        "item_name": "Rough Peridot Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:ROUGH_PERIDOT_GEM"
+    },
+    "FEL_PEARL": {
+        "item_name": "Fel Pearl",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FEL_PEARL"
+    },
+    "ENCHANTMENT_CHANCE_5": {
+        "item_name": "Luck V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHANCE_5"
+    },
+    "ENCHANTED_FEATHER": {
+        "item_name": "Enchanted Feather",
+        "material": "minecraft:feather",
+        "skyblock_id": "skyblock:ENCHANTED_FEATHER"
+    },
+    "ENCHANTMENT_CHANCE_4": {
+        "item_name": "Luck IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHANCE_4"
+    },
+    "ENCHANTED_OAK_LOG": {
+        "item_name": "Enchanted Oak Log",
+        "material": "minecraft:log",
+        "skyblock_id": "skyblock:ENCHANTED_OAK_LOG"
+    },
+    "ENCHANTMENT_CHANCE_3": {
+        "item_name": "Luck III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_CHANCE_3"
+    },
+    "ENCHANTMENT_GREEN_THUMB_5": {
+        "item_name": "Green Thumb V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GREEN_THUMB_5"
+    },
+    "ENCHANTMENT_KNOCKBACK_2": {
+        "item_name": "Knockback II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_KNOCKBACK_2"
+    },
+    "WHITE_GIFT": {
+        "item_name": "White Gift",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WHITE_GIFT"
+    },
+    "FLAWLESS_AQUAMARINE_GEM": {
+        "item_name": "Flawless Aquamarine Gemstone",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:FLAWLESS_AQUAMARINE_GEM"
+    },
+    "ENCHANTMENT_KNOCKBACK_1": {
+        "item_name": "Knockback I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_KNOCKBACK_1"
+    },
+    "ENCHANTMENT_GREEN_THUMB_1": {
+        "item_name": "Green Thumb I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GREEN_THUMB_1"
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_2": {
+        "item_name": "Flash II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_FLASH_2"
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_1": {
+        "item_name": "Flash I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_FLASH_1"
+    },
+    "ENCHANTMENT_GREEN_THUMB_2": {
+        "item_name": "Green Thumb II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GREEN_THUMB_2"
+    },
+    "ENCHANTMENT_GREEN_THUMB_3": {
+        "item_name": "Green Thumb III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GREEN_THUMB_3"
+    },
+    "NETHER_STALK": {
+        "item_name": "Nether Wart",
+        "material": "minecraft:nether_wart",
+        "skyblock_id": "skyblock:NETHER_STALK"
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_4": {
+        "item_name": "Flash IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_FLASH_4"
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_3": {
+        "item_name": "Flash III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_FLASH_3"
+    },
+    "ENCHANTMENT_GREEN_THUMB_4": {
+        "item_name": "Green Thumb IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_GREEN_THUMB_4"
+    },
+    "ENCHANTMENT_FIRST_STRIKE_1": {
+        "item_name": "First Strike I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRST_STRIKE_1"
+    },
+    "HORSEMAN_CANDLE": {
+        "item_name": "Horseman's Candle",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:HORSEMAN_CANDLE"
+    },
+    "RED_ROSE": {
+        "item_name": "Poppy",
+        "material": "minecraft:red_flower",
+        "skyblock_id": "skyblock:RED_ROSE"
+    },
+    "ENCHANTMENT_FIRST_STRIKE_5": {
+        "item_name": "First Strike V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRST_STRIKE_5"
+    },
+    "ENCHANTMENT_ULTIMATE_FLASH_5": {
+        "item_name": "Flash V",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_ULTIMATE_FLASH_5"
+    },
+    "ENCHANTMENT_FIRST_STRIKE_4": {
+        "item_name": "First Strike IV",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRST_STRIKE_4"
+    },
+    "ENCHANTMENT_FIRST_STRIKE_3": {
+        "item_name": "First Strike III",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRST_STRIKE_3"
+    },
+    "ENCHANTMENT_FIRST_STRIKE_2": {
+        "item_name": "First Strike II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_FIRST_STRIKE_2"
+    },
+    "GOLDEN_BALL": {
+        "item_name": "Golden Ball",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:GOLDEN_BALL"
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_1": {
+        "item_name": "Turbo Pumpkin I",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_PUMPKIN_1"
+    },
+    "WRIGGLING_LARVA": {
+        "item_name": "Wriggling Larva",
+        "material": "minecraft:skull",
+        "skyblock_id": "skyblock:WRIGGLING_LARVA"
+    },
+    "ENCHANTMENT_TURBO_PUMPKIN_2": {
+        "item_name": "Turbo Pumpkin II",
+        "material": "minecraft:enchanted_book",
+        "skyblock_id": "skyblock:ENCHANTMENT_TURBO_PUMPKIN_2"
+    }
+}
